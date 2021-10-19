@@ -1,7 +1,8 @@
+require('dotenv').config();
 const client = require('../index');
-const dotenv = require('dotenv');
-dotenv.config();
 const prefix = process.env.PREFIX || '!';
+const debugChannel = '899997057849393225';
+const { MessageEmbed } = require('discord.js');
 
 client.on('messageCreate', async (message) => {
   if (
@@ -24,6 +25,12 @@ client.on('messageCreate', async (message) => {
   try {
     await command.run(client, message, args);
   } catch (err) {
+    const embed = new MessageEmbed()
+      .setTitle(':x: An Error Occured')
+      .setDesription(`\`\`\`yml\n${err}\n\`\`\``)
+      .setColor('RED')
+      .setTimestamp();
+    debugChannel.send({ embeds: [embed] });
     console.log(err);
   }
 });
