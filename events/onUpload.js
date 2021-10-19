@@ -31,7 +31,6 @@ client.on('messageCreate', (message) => {
             `:white_check_mark: Successfully uploaded one message to database!`
           )
           .setURL(imgUrl)
-          .setThumbnail(client.user.displayAvatarURL({ size: 1024 }))
           .setImage(imgUrl)
           .setColor('FUCHSIA')
           .setTimestamp();
