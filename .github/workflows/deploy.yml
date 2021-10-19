@@ -20,4 +20,4 @@ jobs:
           HD_TOKEN: ${{secrets.TOKEN}}
           HD_MONGO_URI: ${{secrets.MONGO_URI}}
           HD_PREFIX: ${{secrets.PREFIX}}
-          HD_ORIGIN_CHANNEL: ${{secrets.OWNERID}}
+          HD_ORIGIN_CHANNEL: ${{secrets.ORIGIN_CHANNEL}}
