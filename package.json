@@ -11,6 +11,9 @@
     "format": "prettier --write .",
     "check-format": "prettier -c ."
   },
+  "engines": {
+    "node": "16.x"
+  },
   "keywords": [
     "nsfw",
     "discord-bot"
