@@ -1,4 +1,4 @@
-name: "[ESLint] Linters Checking"
+name: '[ESLint] Linters Checking'
 on: [push, pull_request]
 
 jobs:

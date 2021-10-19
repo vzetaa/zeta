@@ -1,4 +1,4 @@
-name: "[Prettier] Format Checking"
+name: '[Prettier] Format Checking'
 on: [push, pull_request]
 
 jobs:
