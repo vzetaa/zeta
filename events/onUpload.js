@@ -3,7 +3,7 @@ const client = require('../index');
 const Schema = require('../models/picture');
 const { MessageEmbed } = require('discord.js');
 const originChannel = process.env.ORIGIN_CHANNEL;
-const debugChannel = '899997057849393225';
+const debugChannel = client.channels.cache.get('899997057849393225');
 
 client.on('messageCreate', (message) => {
   if (originChannel.includes(message.channel.id)) {

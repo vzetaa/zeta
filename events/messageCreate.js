@@ -1,8 +1,8 @@
 require('dotenv').config();
 const client = require('../index');
 const prefix = process.env.PREFIX || '!';
-const debugChannel = '899997057849393225';
 const { MessageEmbed } = require('discord.js');
+const debugChannel = client.channels.cache.get('899997057849393225');
 
 client.on('messageCreate', async (message) => {
   if (
