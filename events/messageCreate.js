@@ -5,7 +5,7 @@ const { MessageEmbed } = require('discord.js');
 
 client.on('messageCreate', async (message) => {
   const debugChannel = client.channels.cache.find(
-    (channel) => channel.id === '899892692509679636'
+    (channel) => channel.id === '899997057849393225'
   );
   if (
     message.author.bot ||

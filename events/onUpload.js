@@ -6,7 +6,7 @@ const originChannel = process.env.ORIGIN_CHANNEL;
 
 client.on('messageCreate', (message) => {
   const debugChannel = client.channels.cache.find(
-    (channel) => channel.id === '899892692509679636'
+    (channel) => channel.id === '899997057849393225'
   );
   if (originChannel.includes(message.channel.id)) {
     if (message.author.bot) return;
