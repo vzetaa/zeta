@@ -2,9 +2,11 @@ require('dotenv').config();
 const client = require('../index');
 const prefix = process.env.PREFIX || '!';
 const { MessageEmbed } = require('discord.js');
-const debugChannel = client.channels.cache.get('899997057849393225');
 
 client.on('messageCreate', async (message) => {
+  const debugChannel = client.channels.cache.find(
+    (channel) => channel.id === '899892692509679636'
+  );
   if (
     message.author.bot ||
     !message.guild ||
