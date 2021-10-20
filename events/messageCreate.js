@@ -29,7 +29,7 @@ client.on('messageCreate', async (message) => {
   } catch (err) {
     const embed = new MessageEmbed()
       .setTitle(':x: An Error Occured')
-      .setDesription(`\`\`\`yml\n${err}\n\`\`\``)
+      .setDescription(`\`\`\`yml\n${err}\n\`\`\``)
       .setColor('RED')
       .setTimestamp();
     debugChannel.send({ embeds: [embed] });
