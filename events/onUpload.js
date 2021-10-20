@@ -12,7 +12,7 @@ client.on('messageCreate', (message) => {
     if (message.author.bot) return;
     const imgUrl =
       message.attachments.size > 0
-        ? message.attachments.map((attachments) => attachments.url)
+        ? message.attachments.map((attachments) => attachments.url[0])
         : message.content;
     try {
       Schema.findOne({ Url: imgUrl }, async (err, data) => {
