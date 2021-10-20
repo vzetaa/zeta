@@ -21,3 +21,4 @@ jobs:
           HD_MONGO_URI: ${{secrets.MONGO_URI}}
           HD_PREFIX: ${{secrets.PREFIX}}
           HD_ORIGIN_CHANNEL: ${{secrets.ORIGIN_CHANNEL}}
+          HD_UPLOAD_CHANNEL: ${{secrets.UPLOAD_CHANNEL}}
