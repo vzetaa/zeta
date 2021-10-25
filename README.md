@@ -6,14 +6,14 @@ A Discord Bot for My Private Discord Server.
 
 ### Clone or fork this repository
 
-```s
+```bash
 $ git clone https://github.com/gifaldyazkaa/megumi-dscbot.git
 $ cd megumi-dscbot
 ```
 
 ### Install required dependecies
 
-```s
+```bash
 # Using yarn
 $ yarn install
 # Or if you want to using pnpm
@@ -24,7 +24,7 @@ $ npm install
 
 ### Copy and create Environment Variables
 
-```s
+```bash
 # Unix-like (macOS and Linux)
 $ cp .env.example
 # Or if you're at Windows
@@ -43,7 +43,7 @@ UPLOAD_CHANNEL=your_upload_discord_channel_id
 
 ### Start the bot
 
-```s
+```bash
 # Start in normal mode
 $ yarn start
 # Start in development mode
