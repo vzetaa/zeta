@@ -30,7 +30,7 @@
     "node-fetch": "2.6"
   },
   "devDependencies": {
-    "eslint": "^8.0.1",
+    "eslint": "^8.1.0",
     "nodemon": "^2.0.14",
     "prettier": "^2.4.1"
   }
