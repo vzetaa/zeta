@@ -12,7 +12,7 @@ module.exports = {
    */
   run: async (client, message, args) => {
     const embed = new MessageEmbed()
-      .setDescription(`🕘 Uptime : ${pretty(client.uptime)}ms!`)
+      .setDescription(`🕘 Uptime : ${pretty(client.uptime)}`)
       .setColor('FUCHSIA');
     message.channel.send({ embeds: [embed] });
   },
