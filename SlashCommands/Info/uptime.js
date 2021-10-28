@@ -13,7 +13,7 @@ module.exports = {
    */
   run: async (client, interaction, args) => {
     const embed = new MessageEmbed()
-      .setDescription(`🕘 Uptime : ${pretty(client.uptime)}ms!`)
+      .setDescription(`🕘 Uptime : ${pretty(client.uptime)}`)
       .setColor('FUCHSIA');
     interaction.followUp({ embeds: [embed] });
   },
