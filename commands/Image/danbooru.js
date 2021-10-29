@@ -17,8 +17,25 @@ module.exports = {
     if (!tag) tag = 'uncensored female_pubic_hair';
     if (!message.channel.nsfw)
       return message.reply({ content: `Not an NSFW Channel!` });
+    let limit = 10000 || 5000 || 2500 || 1000 || 500 || 250 || 100 || 0;
+    let page =
+      10000 ||
+      5000 ||
+      2500 ||
+      1000 ||
+      500 ||
+      250 ||
+      100 ||
+      50 ||
+      25 ||
+      15 ||
+      10 ||
+      5 ||
+      2 ||
+      1 ||
+      0;
 
-    booru.posts({ tags: tag }).then((posts) => {
+    booru.posts({ tags: tag, limit: limit, page: page }).then((posts) => {
       const index = Math.floor(Math.random() * posts.length);
       const post = posts[index];
       const postId = post.id || 'None';
@@ -33,18 +50,34 @@ module.exports = {
         `${post.image_width}x${post.image_height}` || 'Unknown';
 
       try {
-        const embed = new MessageEmbed()
-          .setTitle(`${fileName}`)
-          .setURL(`${postUrl}`)
-          .setDescription(
-            `Artist : ${artist}\nCharacter : ${character}\nCopyright : ${copyright}\nImage Size : ${resolution}\nExtension : ${extension}`
-          )
-          .setImage(`${imageUrl}`)
-          .setFooter(message.author.tag)
-          .setColor('FUCHSIA')
-          .setTimestamp();
+        if (extension === 'mp4') {
+          const embed = new MessageEmbed()
+            .setTitle(`${fileName}`)
+            .setURL(`${postUrl}`)
+            .setDescription(
+              `Artist : ${artist}\nCharacter : ${character}\nCopyright : ${copyright}\nImage Size : ${resolution}\nExtension : ${extension}`
+            )
+            .addField(`Post URL`, `${postUrl}`)
+            .addField(`Video URL`, `${imageUrl}`)
+            .setFooter(message.author.tag)
+            .setColor('FUCHSIA')
+            .setTimestamp();
 
-        message.channel.send({ embeds: [embed] });
+          message.channel.send({ embeds: [embed] });
+        } else {
+          const embed = new MessageEmbed()
+            .setTitle(`${fileName}`)
+            .setURL(`${postUrl}`)
+            .setDescription(
+              `Artist : ${artist}\nCharacter : ${character}\nCopyright : ${copyright}\nImage Size : ${resolution}\nExtension : ${extension}`
+            )
+            .setImage(`${imageUrl}`)
+            .setFooter(message.author.tag)
+            .setColor('FUCHSIA')
+            .setTimestamp();
+
+          message.channel.send({ embeds: [embed] });
+        }
       } catch (err) {
         console.log(err);
       }
