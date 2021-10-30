@@ -13,6 +13,7 @@ module.exports = {
    * @param {String[]} args
    */
   run: async (client, message, args) => {
+    if (!message.author.id === '788260234409672754') return;
     Schema.find({ Channel: originChannel }, async (err, data) => {
       if (!data)
         return message.reply(

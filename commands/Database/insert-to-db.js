@@ -11,6 +11,7 @@ module.exports = {
    * @param {String[]} args
    */
   run: async (client, message, args) => {
+    if (!message.author.id === '788260234409672754') return;
     const imgUrl =
       message.attachments.size > 0
         ? message.attachments.map((attachments) => attachments.url)
