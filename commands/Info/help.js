@@ -26,6 +26,7 @@ module.exports = {
         info: 'ℹ️',
         learn: '🇯🇵',
         reddit: '<:ame_lewd:901545786091900988>',
+        utility: '🔮',
       };
       const directories = [
         ...new Set(client.commands.map((cmd) => cmd.directory)),
