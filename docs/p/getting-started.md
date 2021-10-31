@@ -1,6 +1,6 @@
 # Getting Started
 
-[Megumi](/) is a Personal Discord Bot for My Private Discord Server.
+[shiroko](/) is a Personal Discord Bot for My Private Discord Server.
 
 ## Warnings
 
@@ -19,8 +19,8 @@ To Getting started, You need to doing some steps. Here is it!
 ### Clone this Repository
 
 ```sh
-$ git clone https://github.com/gifaldyazkaa/megumi-dscbot.git
-$ cd megumi-dscbot
+$ git clone https://github.com/gifaldyazkaa/shiroko-dscbot.git
+$ cd shiroko-dscbot
 ```
 
 ### Install required dependecies

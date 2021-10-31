@@ -1,6 +1,6 @@
-# Megumi
+# shiroko
 
-Welcome to Documentations of [Megumi](https://github.com/gifaldyazkaa/megumi-dscbot)!
+Welcome to Documentations of [shiroko](https://github.com/gifaldyazkaa/shiroko-dscbot)!
 
 Here, you can see How to use, Installation, Command List, etc!
 
