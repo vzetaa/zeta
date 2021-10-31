@@ -23,25 +23,8 @@ module.exports = {
     if (!tags) tags = 'uncensored female_pubic_hair';
     if (!interaction.channel.nsfw)
       return interaction.followUp({ content: `Not an NSFW Channel!` });
-    let limit = 10000 || 5000 || 2500 || 1000 || 500 || 250 || 100 || 0;
-    let page =
-      10000 ||
-      5000 ||
-      2500 ||
-      1000 ||
-      500 ||
-      250 ||
-      100 ||
-      50 ||
-      25 ||
-      15 ||
-      10 ||
-      5 ||
-      2 ||
-      1 ||
-      0;
 
-    booru.posts({ tags: tags, limit: limit, page: page }).then((posts) => {
+    booru.posts({ tags: tags, limit: 10000 }).then((posts) => {
       const index = Math.floor(Math.random() * posts.length);
       const post = posts[index];
       const postId = post.id || 'None';
