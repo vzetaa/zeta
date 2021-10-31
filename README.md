@@ -6,7 +6,7 @@ A Discord Bot for My Private Discord Server.
 
 </div>
 
-## Documentations
+## Documentation
 
 You can go to [gifaldyazka.is-a.dev/shiroko-dscbot](https://gifaldyazka.is-a.dev/shiroko-dscbot) if you want to read How to use, Installation, and Contributing Terms. Thanks.
 
