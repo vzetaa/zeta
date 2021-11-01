@@ -14,6 +14,15 @@ module.exports = {
    * @param {String[]} args
    */
   run: async (client, message, args) => {
+    const errEmbed = new MessageEmbed()
+      .setTitle(':x: | No permission!')
+      .setDescription(
+        'You must have <@902440072148836383&> to use this command!'
+      )
+      .setColor('RED')
+      .setTimestamp();
+    if (!message.member.roles.cache.find((r) => r.id === '902440072148836383'))
+      return message.channel.send({ embeds: [errEmbed] });
     let data = datas[Math.floor(Math.random() * 105)];
     const embed = new MessageEmbed()
       .setTitle(`${data.kana} - ${data.romaji}`, true)
