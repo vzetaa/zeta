@@ -24,6 +24,7 @@ module.exports = {
         image: '🖼️',
         info: 'ℹ️',
         learn: '🇯🇵',
+        owner: '👑',
         reddit: '<:ame_lewd:901545786091900988>',
         utility: '🔮',
       };
