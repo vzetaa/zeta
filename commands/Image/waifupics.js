@@ -4,7 +4,7 @@ const fetch = require('node-fetch');
 module.exports = {
   name: 'waifupics',
   description: 'Get an image from waifu.pics',
-  aliases: ['wfupics'],
+  aliases: ['wfupics', 'waifupic'],
   emoji: '',
   userperm: ['SEND_MESSAGES'],
   botperm: ['SEND_MESSAGES'],
