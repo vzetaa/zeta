@@ -1,6 +1,6 @@
-# shiroko
+# kogasa
 
-Welcome to Documentations of [shiroko](https://github.com/gifaldyazkaa/shiroko-dscbot)!
+Welcome to Documentations of [kogasa](https://github.com/gifaldyazkaa/kogasa-dscbot)!
 
 Here, you can see How to use, Installation, Command List, etc!
 

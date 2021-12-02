@@ -1,6 +1,6 @@
 # Getting Started
 
-[shiroko](/) is a Personal Discord Bot for My Private Discord Server.
+[koagsa](/) is a Personal Discord Bot for My Private Discord Server.
 
 ## Warnings
 
@@ -19,8 +19,8 @@ To Getting started, You need to doing some steps. Here is it!
 ### Clone this Repository
 
 ```sh
-$ git clone https://github.com/gifaldyazkaa/shiroko-dscbot.git
-$ cd shiroko-dscbot
+$ git clone https://github.com/gifaldyazkaa/koagsa-dscbot.git
+$ cd koagsa-dscbot
 ```
 
 ### Install required dependecies
