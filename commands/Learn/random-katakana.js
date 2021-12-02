@@ -17,7 +17,7 @@ module.exports = {
     const errEmbed = new MessageEmbed()
       .setTitle(':x: | No permission!')
       .setDescription(
-        'You must have <@902440072148836383> to use this command!'
+        'You must have <@&902440072148836383> to use this command!'
       )
       .setColor('RED')
       .setTimestamp();
