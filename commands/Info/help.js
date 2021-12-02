@@ -53,7 +53,7 @@ module.exports = {
       });
 
       const embed = new MessageEmbed()
-        .setTitle('Megumi Help Desk')
+        .setTitle('Kogasa Help Desk')
         .setThumbnail(client.user.displayAvatarURL({ size: 512 }))
         .setDescription(
           'Please choose a category in the dropdown menu!\n\nFor information about usage, or something about commands, You can [Read the Docs](https://github.com/gifaldyazkaa/megumi-dscbot) for more info!'
