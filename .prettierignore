@@ -1,0 +1,5 @@
+# Module
+node_modules/
+
+# Build output
+dist
