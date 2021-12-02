@@ -2,7 +2,7 @@
 
 # ☂️ Tatara Kogasa#5354
 
-[![Banner](https://cdn.upload.systems/uploads/7ushRZBB.png)](https://gifaldyazka.is-a.dev/kogasa-dscbot)
+[![Banner](https://cdn.upload.systems/uploads/jIwkxukV.png)](https://gifaldyazka.is-a.dev/kogasa-dscbot)
 
 </div>
 
