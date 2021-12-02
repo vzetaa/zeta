@@ -1,10 +1,6 @@
-<div align="cemter">
-
 ## ☂️ Tatara Kogasa#5354
 
 [![Banner](https://cdn.upload.systems/uploads/jIwkxukV.png)](https://github.com/gifaldyazkaa/kogasa-dscbot)
-
-</div>
 
 Welcome to Documentations of [kogasa](https://github.com/gifaldyazkaa/kogasa-dscbot)!
 
