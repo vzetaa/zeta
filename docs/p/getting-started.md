@@ -69,3 +69,14 @@ $ yarn dum
 ```
 
 ### 🎉 You should be ready to go!
+
+## 📃 Available Scripts
+
+| Name           | Description                                |
+| -------------- | ------------------------------------------ |
+| `start`        | Start the bot                              |
+| `dev`          | Start the bot in Development mode          |
+| `build`        | Build the source code into JavaScript Code |
+| `lint`         | Lint the source code with ESLint           |
+| `format`       | Format the source code with Prettier       |
+| `check-format` | Check formatting with Prettier             |
