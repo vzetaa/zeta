@@ -19,7 +19,7 @@
 		"chalk": "^4.1.2",
 		"consola": "^2.15.3",
 		"danbooru": "^3.1.0",
-		"discord.js": "^13.1.0",
+		"discord.js": "^13.3.1",
 		"dotenv": "^10.0.0",
 		"glob": "^7.1.7",
 		"mongoose": "^5.13.7",
