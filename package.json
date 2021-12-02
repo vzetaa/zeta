@@ -5,7 +5,7 @@
 	"main": "index.js",
 	"private": true,
 	"scripts": {
-		"start": "ts-node --transpile-only --poll ./src/index.ts",
+		"start": "ts-node --transpile-only ./src/index.ts",
 		"dev": "ts-node-dev --respawn --transpile-only --poll ./src/index.ts",
 		"build": "tsc",
 		"lint": "eslint .",
