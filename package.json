@@ -23,7 +23,7 @@
 		"dotenv": "^10.0.0",
 		"glob": "^7.2.0",
 		"mongoose": "5.13.7",
-		"node-fetch": "2.6.6",
+		"node-fetch": "3.0.0",
 		"pretty-ms": "^7.0.1",
 		"ts-node": "^10.4.0",
 		"ts-node-dev": "^1.1.8",
