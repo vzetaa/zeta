@@ -72,6 +72,8 @@ $ yarn dum
 
 ## 📃 Available Scripts
 
+Available Scripts that defined at [package.json]()
+
 | Name           | Description                                |
 | -------------- | ------------------------------------------ |
 | `start`        | Start the bot                              |
@@ -80,3 +82,20 @@ $ yarn dum
 | `lint`         | Lint the source code with ESLint           |
 | `format`       | Format the source code with Prettier       |
 | `check-format` | Check formatting with Prettier             |
+
+## 📂 Folder Structure
+
+```
+. <---------------- Root Folder
+├── .github <------ GitHub Repository Configuration
+├── docs <--------- Documentation Folder
+└── src <---------- Source File
+   ├── Client <---- Client Folder
+   ├── Commands <-- Commands Folder
+   ├── Data <------ Custom Data Folder
+   ├── Events<----- Events Folder
+   ├── index.ts <-- Main File
+   ├── interfaces < TypeScript Interfaces
+   ├── Schema <---- Database Schema
+   └── Slash <----- Slash Commands Folder
+```
