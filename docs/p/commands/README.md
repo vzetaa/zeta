@@ -7,14 +7,15 @@ Commands List of [Kogasa Discord Bot](https://github.com/gifaldyazkaa/kogasa-dsc
 ### 📂 File Totals
 
 ```bat
-Normal Commands: 42
-Slash Commands: 10
-Database Schema: 1
-Custom Data: 2
-Interfaces: 5
-Events: 5
-Commands Totals: 52
-All Totals: 65
+Normal Commands : 42
+Slash Commands  : 10
+Database Schema : 1
+Custom Data     : 2
+Interfaces      : 5
+Events          : 5
+--------------------
+Commands Totals : 52
+All Totals      : 65
 ```
 
 ---
