@@ -14,13 +14,16 @@ Discord Bots is your best helper at Discord! There's so many amazing things to d
 
 ## ➡️ Installing
 
-To Getting started, You need to doing some steps. Here is it!
-
 ### 📥 Clone this Repository
 
 ```sh
-$ git clone https://github.com/gifaldyazkaa/koagsa-dscbot.git
-$ cd koagsa-dscbot
+# Using Git
+$ git clone https://github.com/gifaldyazkaa/kogasa-dscbot.git
+$ cd kogasa-dscbot
+
+# GitHub CLI
+$ gh repo clone gifaldyazkaa/kogasa-dscbot
+$ cd kogasa-dscbot
 ```
 
 ### 📦 Install all required dependecies
