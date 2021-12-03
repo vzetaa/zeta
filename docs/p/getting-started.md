@@ -1,16 +1,16 @@
 # ➡️ Getting Started
 
-[koagsa](/) is a Personal Discord Bot for My Private Discord Server.
+[Kogasa](/) is a Maid and Helper for My Private Discord Server ☂️.
 
 ## ⛔ Warnings
 
-Some warnings, If you're Under age, Don't trying to run / test this bot by yourself! There is so many NSFW command (like lewd, nudity commands, etc). And if you're over 18 years old, use it at your own risk.
+**This Discord Bot Source Code and It's Feature contains NSFW Features**. If you're under age, I'm not recommending you to clone and try this repository. I have noticed you okay~, **Use it at own risks!**
 
 ## ❓ Purpose
 
 Why i'm building this bot?
 
-Because i want. And Discord Bots is your best helper at Discord! There's so many amazing things to do with discord bots. You can doing, checking anything you want just by running a command. And the bot will do it for you. Same with me. At this project, I'm building this Discord bot to helps me at my private server. Like translating a text, Inserting a Data to Database, and many more!
+Discord Bots is your best helper at Discord! There's so many amazing things to do with discord bots. You can doing, checking anything you want just by running a command. And the bots will do it for you. Same with me! At this project, I'm building this Discord Bot to helps me at My Private Server. Like Inserting a Data to Database, Fetching an Images from APIs, and many more!
 
 ## ➡️ Installing
 
