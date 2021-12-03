@@ -75,7 +75,7 @@ $ yarn dum
 
 ## 📃 Available Scripts
 
-Available Scripts that defined at [package.json]()
+Available scripts that defined at [package.json](https://github.com/gifaldyazkaa/kogasa-dscbot/blob/master/package.json)
 
 | Name           | Description                                |
 | -------------- | ------------------------------------------ |
