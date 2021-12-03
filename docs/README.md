@@ -2,6 +2,8 @@
 
 [![Banner](https://cdn.upload.systems/uploads/jIwkxukV.png)](https://github.com/gifaldyazkaa/kogasa-dscbot)
 
+[![Deploy workflows](https://img.shields.io/github/workflow/status/gifaldyazkaa/kogasa-dscbot/%5BHeroku%5D%20Deploy?label=Deploy&logo=github%20actions&style=for-the-badge)](https://github.com/gifaldyazkaa/kogasa-dscbot/blob/master/.github/workflows/Deploy.yml) [![Made with TypeScript](https://img.shields.io/github/languages/top/gifaldyazkaa/kogasa-dscbot?logo=typescript&style=for-the-badge)](https://github.com/gifaldyazkaa/kogasa-dscbot/search?l=typescript) [![Project Version](https://img.shields.io/github/package-json/v/gifaldyazkaa/kogasa-dscbot?logo=node.js&style=for-the-badge)](https://github.com/gifaldyazkaa/kogasa-dscbot/blob/master/package.json) [![Discord.js Version](https://img.shields.io/github/package-json/dependency-version/gifaldyazkaa/kogasa-dscbot/discord.js?logo=discord&style=for-the-badge)](https://github.com/gifaldyazkaa/kogasa-dscbot/blob/d8479791910ea956ae1fd6fb6a65c4e2f40cf43c/package.json#L22)
+
 ---
 
 ## 👋 Welcome!
