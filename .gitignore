@@ -126,3 +126,6 @@ dist/
 # Jekyll compile result
 _site/
 docs/_site/
+
+# Some commands file
+src/Commands/Admin/Root.ts
