@@ -1,4 +1,4 @@
-import { Slash, Command, Event } from '../interfaces';
+import { Slash, Command, Event } from '../Interfaces';
 import { Client, Collection } from 'discord.js';
 import { readdirSync } from 'fs';
 import mongoose from 'mongoose';

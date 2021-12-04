@@ -1,11 +1,11 @@
 import { MessageEmbed } from 'discord.js';
-import { Command } from '../../interfaces';
+import { Command } from '../../Interfaces';
 
 export const command: Command = {
 	name: 'avatar',
 	description: 'Shows user avatar',
 	aliases: ['pfp'],
-	usage: '[@user]',
+	usage: '',
 	testOnly: false,
 	permissions: ['SEND_MESSAGES', 'EMBED_LINKS'],
 	run: async (client, message, args) => {

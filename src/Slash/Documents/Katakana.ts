@@ -1,5 +1,5 @@
 import { MessageEmbed } from 'discord.js';
-import { Slash } from '../../interfaces';
+import { Slash } from '../../Interfaces';
 import datas from '../../Data/Katakana.json';
 
 export const slash: Slash = {

@@ -1,4 +1,4 @@
-import { Command } from '../../interfaces';
+import { Command } from '../../Interfaces';
 import Schema from '../../Schema/Picture';
 const originChannel = process.env.ORIGIN_CHANNEL;
 

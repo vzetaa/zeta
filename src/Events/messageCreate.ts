@@ -1,4 +1,4 @@
-import { Command, Event } from '../interfaces';
+import { Command, Event } from '../Interfaces';
 import { Message, MessageEmbed, Permissions } from 'discord.js';
 
 export const event: Event = {

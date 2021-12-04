@@ -1,5 +1,5 @@
 import { MessageEmbed } from 'discord.js';
-import { Slash } from '../../interfaces';
+import { Slash } from '../../Interfaces';
 
 export const slash: Slash = {
 	name: 'ping',

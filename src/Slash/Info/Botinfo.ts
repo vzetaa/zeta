@@ -1,6 +1,6 @@
 import module from '../../../package.json';
 import { MessageEmbed } from 'discord.js';
-import { Slash } from '../../interfaces';
+import { Slash } from '../../Interfaces';
 import moment from 'moment';
 
 export const slash: Slash = {

@@ -1,5 +1,5 @@
 import { Message, MessageEmbed, TextChannel } from 'discord.js';
-import { Event } from '../interfaces';
+import { Event } from '../Interfaces';
 import Schema from '../Schema/Picture';
 const originChannel = process.env.ORIGIN_CHANNEL;
 

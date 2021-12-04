@@ -1,5 +1,5 @@
 //@ts-nocheck
-import { Command } from '../../interfaces';
+import { Command } from '../../Interfaces';
 import { Client } from 'cabul';
 const reddit = new Client();
 

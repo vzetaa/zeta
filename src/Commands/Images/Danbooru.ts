@@ -1,5 +1,5 @@
 import { MessageEmbed } from 'discord.js';
-import { Command } from '../../interfaces';
+import { Command } from '../../Interfaces';
 import Danbooru from 'danbooru';
 const booru = new Danbooru();
 

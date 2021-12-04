@@ -1,4 +1,4 @@
-import { Slash } from '../../interfaces';
+import { Slash } from '../../Interfaces';
 import fetch from 'node-fetch';
 
 export const slash: Slash = {

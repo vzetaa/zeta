@@ -1,5 +1,5 @@
 import chalk from 'chalk';
-import { Event } from '../interfaces';
+import { Event } from '../Interfaces';
 
 export const event: Event = {
 	name: 'ready',
@@ -12,7 +12,7 @@ export const event: Event = {
 
 		// Set activity presence
 		client.user.setActivity({
-			name: `with My husband <3`,
+			name: `with My Husband 💕`,
 			type: 'PLAYING',
 		});
 	},

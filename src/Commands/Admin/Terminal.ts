@@ -1,6 +1,6 @@
 import child from 'child_process';
 import { MessageEmbed } from 'discord.js';
-import { Command } from '../../interfaces';
+import { Command } from '../../Interfaces';
 
 export const command: Command = {
 	name: 'terminal',

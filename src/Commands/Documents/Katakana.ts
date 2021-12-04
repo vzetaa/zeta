@@ -1,5 +1,5 @@
 import { MessageEmbed } from 'discord.js';
-import { Command } from '../../interfaces';
+import { Command } from '../../Interfaces';
 import datas from '../../Data/Katakana.json';
 
 export const command: Command = {

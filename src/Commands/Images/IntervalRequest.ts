@@ -1,4 +1,4 @@
-import { Command } from '../../interfaces';
+import { Command } from '../../Interfaces';
 import fetch from 'node-fetch';
 
 export const command: Command = {
