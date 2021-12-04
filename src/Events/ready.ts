@@ -12,8 +12,8 @@ export const event: Event = {
 
 		// Set activity presence
 		client.user.setActivity({
-			name: `${client.users.cache.size} Members`,
-			type: 'LISTENING',
+			name: `with My husband <3`,
+			type: 'PLAYING',
 		});
 	},
 };
