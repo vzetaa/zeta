@@ -19,6 +19,7 @@ Bot owner-only command. Very powerful and dangerous to use!
 | -------- | ------- | ------------- | ----------------- | --------------------- |
 | Evaluate | `!eval` | `!e`          | `!eval <code>`    | Evaluate given code   |
 | Terminal | `!bash` | `!sh`, `!zsh` | `!bash <command>` | Runs terminal command |
+| Kill     | `!kill` | `!destroy`    | `!kill [reasons]` | Kill client sessions  |
 
 ---
 
