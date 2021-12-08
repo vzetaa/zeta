@@ -14,7 +14,7 @@ export const slash: Slash = {
 			.addField(`Kana`, `${data.kana}`, true)
 			.addField(`Romaji`, `${data.romaji}`, true)
 			.addField(`Type`, `${data.type}`, true)
-			.setColor('PURPLE')
+			.setColor('LUMINOUS_VIVID_PINK')
 			.setTimestamp();
 
 		interaction.followUp({ embeds: [embed] });

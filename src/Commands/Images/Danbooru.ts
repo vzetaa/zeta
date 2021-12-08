@@ -42,7 +42,7 @@ export const command: Command = {
 						.addField(`Post URL`, `${postUrl}`)
 						.addField(`Video URL`, `${imageUrl}`)
 						.setFooter(message.author.tag)
-						.setColor('PURPLE')
+						.setColor('LUMINOUS_VIVID_PINK')
 						.setTimestamp();
 
 					message.channel.send({ embeds: [embed] });
@@ -55,7 +55,7 @@ export const command: Command = {
 						)
 						.setImage(`${imageUrl}`)
 						.setFooter(message.author.tag)
-						.setColor('PURPLE')
+						.setColor('LUMINOUS_VIVID_PINK')
 						.setTimestamp();
 
 					message.channel.send({ embeds: [embed] });
