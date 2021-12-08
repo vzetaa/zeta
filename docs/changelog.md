@@ -28,3 +28,7 @@ Welcome to @shiraayuki! Thanks for contributing to this project!
 - Added husky, commitlint, lint-staged.
 - Removed context menu.
 - Overwrited old codebase with New codebase
+
+# [v4.0.0](https://github.com/gifaldyazkaa/kogasa-dscbot/releases/tag/v4.0.0)
+
+- Rename Repository Name to **Koyori**

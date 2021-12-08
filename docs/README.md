@@ -1,16 +1,16 @@
-# ☂️ Tatara Kogasa#5354
+# 🧪 Hakui Koyori#5354
 
-[![Banner](https://cdn.upload.systems/uploads/jIwkxukV.png)](https://github.com/gifaldyazkaa/kogasa-dscbot)
+[![Banner](https://cdn.upload.systems/uploads/VNEql7wF.jpg)](https://github.com/gifaldyazkaa/koyori-dscbot)
 
-[![Deploy workflows](https://img.shields.io/github/workflow/status/gifaldyazkaa/kogasa-dscbot/%5BHeroku%5D%20Deploy?label=Deploy&logo=github%20actions&style=for-the-badge)](https://github.com/gifaldyazkaa/kogasa-dscbot/blob/master/.github/workflows/Deploy.yml) [![Made with TypeScript](https://img.shields.io/github/languages/top/gifaldyazkaa/kogasa-dscbot?logo=typescript&style=for-the-badge)](https://github.com/gifaldyazkaa/kogasa-dscbot/search?l=typescript) [![Project Version](https://img.shields.io/github/package-json/v/gifaldyazkaa/kogasa-dscbot?logo=node.js&style=for-the-badge)](https://github.com/gifaldyazkaa/kogasa-dscbot/blob/master/package.json) [![Discord.js Version](https://img.shields.io/github/package-json/dependency-version/gifaldyazkaa/kogasa-dscbot/discord.js?logo=discord&style=for-the-badge)](https://github.com/gifaldyazkaa/kogasa-dscbot/blob/d8479791910ea956ae1fd6fb6a65c4e2f40cf43c/package.json#L22)
+[![Deploy workflows](https://img.shields.io/github/workflow/status/gifaldyazkaa/koyori-dscbot/%5BHeroku%5D%20Deploy?label=Deploy&logo=github%20actions&style=for-the-badge)](https://github.com/gifaldyazkaa/koyori-dscbot/blob/master/.github/workflows/Deploy.yml) [![Made with TypeScript](https://img.shields.io/github/languages/top/gifaldyazkaa/koyori-dscbot?logo=typescript&style=for-the-badge)](https://github.com/gifaldyazkaa/koyori-dscbot/search?l=typescript) [![Project Version](https://img.shields.io/github/package-json/v/gifaldyazkaa/koyori-dscbot?logo=node.js&style=for-the-badge)](https://github.com/gifaldyazkaa/koyori-dscbot/blob/master/package.json) [![Discord.js Version](https://img.shields.io/github/package-json/dependency-version/gifaldyazkaa/koyori-dscbot/discord.js?logo=discord&style=for-the-badge)](https://github.com/gifaldyazkaa/koyori-dscbot/blob/d8479791910ea956ae1fd6fb6a65c4e2f40cf43c/package.json#L22)
 
 ---
 
 ## 👋 Welcome!
 
-Welcome to Documentations of [Kogasa](https://github.com/gifaldyazkaa/kogasa-dscbot)!
+Welcome to Documentations of [Koyori](https://github.com/gifaldyazkaa/koyori-dscbot)!
 
-[Kogasa](https://github.com/gifaldyazkaa/kogasa-dscbot) is a Maid and Helper Discord Bot in My Private Server 💖
+[Koyori](https://github.com/gifaldyazkaa/koyori-dscbot) is a Maid and Helper Discord Bot in My Private Server 💖
 
 Here you can see How to Use, Installation, Command List, Contributing Guidelines, etc.
 
@@ -41,12 +41,12 @@ Here you can see How to Use, Installation, Command List, Contributing Guidelines
 
 ## 📢 Announcements
 
-### Updated to v3.0.0
+### Updated to v4.0.0
 
-[Kogasa](https://github.com/gifaldyazkaa/kogasa-dscbot) is Getting an Update to `^v3.0.0`! The source code rewrited into TypeScript Code and some other changes! See the changelog at [Changelog Release](https://github.com/gifaldyazkaa/kogasa-dscbot/blob/master/docs/changelog.md) 🎉
+[Koyori](https://github.com/gifaldyazkaa/koyori-dscbot) is Getting an Update to `^v4.0.0` 🎉s! See the changelog at [Changelog Release](https://github.com/gifaldyazkaa/koyori-dscbot/blob/master/docs/changelog.md).
 
 ---
 
 ## 📃 License
 
-[Kogasa](https://github.com/gifaldyazkaa/kogasa-dscbot) is Licensed under [Apache-2.0](https://github.com/gifaldyazkaa/kogasa-dscbot/blob/master/LICENSE) License.
+[Koyori](https://github.com/gifaldyazkaa/koyori-dscbot) is Licensed under [Apache-2.0](https://github.com/gifaldyazkaa/koyori-dscbot/blob/master/LICENSE) License.
