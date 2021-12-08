@@ -1,14 +1,14 @@
 <div align="center">
 
-# ☂️ Tatara Kogasa#5354
+# 🧪 Hakui Koyori#5354
 
-[![Banner](https://cdn.upload.systems/uploads/jIwkxukV.png)](https://gifaldyazka.is-a.dev/kogasa-dscbot)
+[![Banner](https://cdn.upload.systems/uploads/VNEql7wF.jpg)](https://gifaldyazka.is-a.dev/koyori-dscbot)
 
 </div>
 
 ## 📄 Documentation
 
-You can go to [gifaldyazka.is-a.dev/kogasa-dscbot](https://gifaldyazka.is-a.dev/kogasa-dscbot) if you want to read How to use, Installation, Command list, and Contributing Terms. Thanks...
+You can go to [gifaldyazka.is-a.dev/koyori-dscbot](https://gifaldyazka.is-a.dev/koyori-dscbot) if you want to read How to use, Installation, Command list, and Contributing Terms. Thanks...
 
 > The Documentation powered by [**🐈 GitHub Pages**](https://pages.github.com) and [**✨ Cayman**](https://github.com/pages-themes/cayman) theme.
 
@@ -26,4 +26,4 @@ Wanna know the update schedule, and next name? Who is that? Please go to [docs/r
 
 ## 📃 License
 
-This Project is Licensed under [Apache-2.0](./LICENSE) License.
+[Koyori](#) is Licensed under [Apache-2.0](./LICENSE) License.
