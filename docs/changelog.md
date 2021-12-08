@@ -6,6 +6,10 @@
 - Initialize Project with JavaScript code.
 - Some minor updates and dependency updates.
 
+## 👨‍💻 New Contributors
+
+Welcome to @shiraayuki! Thanks for contributing to this project!
+
 # [v2.0.0](https://github.com/gifaldyazkaa/kogasa-dscbot/releases/tag/v2.0.0)
 
 ## 🤔 What's changed?
