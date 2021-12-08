@@ -11,7 +11,7 @@ export const command: Command = {
 	run: async (client, message, args) => {
 		const embed = new MessageEmbed()
 			.setDescription(`Ping Latency : ${client.ws.ping}ms!`)
-			.setColor('PURPLE');
+			.setColor('LUMINOUS_VIVID_PINK');
 		message.channel.send({ embeds: [embed] });
 	},
 };

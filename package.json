@@ -1,7 +1,7 @@
 {
-	"name": "kogasa",
-	"version": "3.0.0",
-	"description": "A Discord bot for my private discord server",
+	"name": "koyori",
+	"version": "4.0.0",
+	"description": "🧪 Maid and Helper Discord Bot for My Private Discord Server",
 	"main": "index.js",
 	"private": true,
 	"scripts": {

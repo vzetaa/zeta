@@ -20,13 +20,13 @@ export const command: Command = {
 					process.env.PREFIX
 				}\`\nCreated at : ${moment(client.user.createdAt).format(
 					'llll'
-				)}\nRepository : https://github.com/gifaldyazkaa/kogasa-dscbot\nDocumentation : https://gifaldyazka.is-a.dev/kogasa-dscbot/`
+				)}\nRepository : https://github.com/gifaldyazkaa/koyori-dscbot\nDocumentation : https://gifaldyazka.is-a.dev/koyori-dscbot/`
 			)
 			.addField(
 				'Core Information',
 				`Project-type : Node.js Application\nProject version : v${module.version}\nDiscord.js version : ^${module.dependencies['discord.js']}\nMongoose version : ^${module.dependencies.mongoose}\nTypeScript version : ${module.dependencies.typescript}`
 			)
-			.setColor('PURPLE')
+			.setColor('LUMINOUS_VIVID_PINK')
 			.setTimestamp();
 
 		message.channel.send({ embeds: [embed] });
