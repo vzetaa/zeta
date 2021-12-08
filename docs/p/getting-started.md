@@ -1,6 +1,6 @@
 # ➡️ Getting Started
 
-[Kogasa](/) is a Maid and Helper for My Private Discord Server ☂️.
+[Koyori](/) is a Maid and Helper for My Private Discord Server 🧪.
 
 ## ⛔ Warnings
 
@@ -18,12 +18,12 @@ Discord Bots is your best helper at Discord! There's so many amazing things to d
 
 ```sh
 # Using Git
-$ git clone https://github.com/gifaldyazkaa/kogasa-dscbot.git
-$ cd kogasa-dscbot
+$ git clone https://github.com/gifaldyazkaa/koyori-dscbot.git
+$ cd koyori-dscbot
 
 # GitHub CLI
-$ gh repo clone gifaldyazkaa/kogasa-dscbot
-$ cd kogasa-dscbot
+$ gh repo clone gifaldyazkaa/koyori-dscbot
+$ cd koyori-dscbot
 ```
 
 ### 📦 Install all required dependecies

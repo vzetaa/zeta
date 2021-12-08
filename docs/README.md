@@ -43,7 +43,7 @@ Here you can see How to Use, Installation, Command List, Contributing Guidelines
 
 ### Updated to v4.0.0
 
-[Koyori](https://github.com/gifaldyazkaa/koyori-dscbot) is Getting an Update to `^v4.0.0` 🎉s! See the changelog at [Changelog Release](https://github.com/gifaldyazkaa/koyori-dscbot/blob/master/docs/changelog.md).
+[Koyori](https://github.com/gifaldyazkaa/koyori-dscbot) is Getting an Update to `^v4.0.0` 🎉! See the changelog at [Changelog Release](https://github.com/gifaldyazkaa/koyori-dscbot/blob/master/docs/changelog.md).
 
 ---
 
