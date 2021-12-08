@@ -1,4 +1,4 @@
-# [v1.0.0](/releases/v1.0.0)
+# [v1.0.0](https://github.com/gifaldyazkaa/kogasa-dscbot/releases/tag/v1.0.0)
 
 ## 🤔 What's changed?
 
@@ -6,14 +6,14 @@
 - Initialize Project with JavaScript code.
 - Some minor updates and dependency updates.
 
-# [v2.0.0](/releases/v2.0.0)
+# [v2.0.0](https://github.com/gifaldyazkaa/kogasa-dscbot/releases/tag/v2.0.0)
 
 ## 🤔 What's changed?
 
 - Rename Repository Name to **Shiroko**.
 - Some minor updates and dependency updates.
 
-# v3.0.0
+# [v3.0.0](https://github.com/gifaldyazkaa/kogasa-dscbot/releases/tag/v3.0.0)
 
 ## 🤔 What's changed?
 
