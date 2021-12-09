@@ -127,9 +127,6 @@ dist/
 _site/
 docs/_site/
 
-# Some commands file
-src/Commands/Admin/Root.ts
-
 # Yarn v3
 .yarnrc
 .yarnrc.yml
