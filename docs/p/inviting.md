@@ -8,12 +8,12 @@ Or you can click [discord.com/users/78826...](https://discord.com/users/78826023
 
 **Q** : Why i should contacting you for an discord bots?
 
-**A** : **The bot is not a public bot.** I have disabled it because it just a discord bot for my discord server :). But it supports Multiple server too. If you want to invite this bot into your server, You can contact and tell me. And i'll give you a link to invite this bot.
+**A** : **This bot isn't a public bot.** I have disabled it cuz it just a discord bot for my discord server :). But it supports Multiple server too. If you want to invite this bot into your server, You can contact and tell me. And i'll give you a link to invite this bot.
 
-### Help Desk Preview
+### 🖼️ Help Desk Preview
 
 <div align="center">
-    <a href="https://i.upload.systems/xakEdLcu" target="_blank">
-        <img src="https://cdn.upload.systems/uploads/xakEdLcu.png" alt="Help Desk Preview">
+    <a href="https://i.upload.systems/DdGrSu8a" target="_blank">
+        <img src="https://cdn.upload.systems/uploads/DdGrSu8a.png" alt="Help Desk Preview">
     </a>
 </div>

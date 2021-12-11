@@ -2,7 +2,7 @@
 
 Table list of Documents category.
 
-> This requires you to have `<@&902440072148836383>` Role or `@🎌︱Japanese Learning` at My server in order to run the command.
+> This requires you to have `<@&902440072148836383>` or `@🎌︱Japanese Learning` Role at My server in order to run the command.
 
 ---
 

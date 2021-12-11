@@ -1,6 +1,6 @@
 ## 📚 Commands
 
-Commands List of [Kogasa Discord Bot](https://github.com/gifaldyazkaa/kogasa-dscbot)
+Commands List of [Koyori Discord Bot](https://github.com/gifaldyazkaa/koyori-dscbot)
 
 ---
 

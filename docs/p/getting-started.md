@@ -1,6 +1,6 @@
 # ➡️ Getting Started
 
-[Koyori](/) is a Maid and Helper for My Private Discord Server 🧪.
+[Koyori](/) is a Maid and Helper for My Private Discord Server 🧪
 
 ## ⛔ Warnings
 
@@ -10,7 +10,7 @@
 
 Why i'm building this bot?
 
-Discord Bots is your best helper at Discord! There's so many amazing things to do with discord bots. You can doing, checking anything you want just by running a command. And the bots will do it for you. Same with me! At this project, I'm building this Discord Bot to helps me at My Private Server. Like Inserting a Data to Database, Fetching an Images from APIs, and many more!
+[Koyori](https://twitter.com/hakuikoyori) is soo adorable and cute 🥰 _(KOYORI KOYORIIIIIIIIIII AAAAAAAAAAAAAAAAAAAAAAAGH ❤ ❤ ❤ ❤ WANGI WANGI WANGI WANGI HU HA HU HA HU HA)_. My diabetes and my simp level is soo high right now. So, I've decided to build this bot :3. Simple reasons right?
 
 ## ➡️ Installing
 
@@ -26,7 +26,7 @@ $ gh repo clone gifaldyazkaa/koyori-dscbot
 $ cd koyori-dscbot
 ```
 
-### 📦 Install all required dependecies
+### 📦 Install all required dependencies
 
 ```sh
 # With yarn
@@ -90,7 +90,7 @@ Available scripts that defined at [package.json](https://github.com/gifaldyazkaa
 
 ```
 . <---------------- Root Folder
-├── .github <------ GitHub Repository Configuration
+├── .github <------ GitHub CI & Dependabot Config
 ├── docs <--------- Documentation Folder
 └── src <---------- Source File
    ├── Client <---- Client Folder
@@ -98,7 +98,7 @@ Available scripts that defined at [package.json](https://github.com/gifaldyazkaa
    ├── Data <------ Custom Data Folder
    ├── Events<----- Events Folder
    ├── index.ts <-- Main File
-   ├── interfaces < TypeScript Interfaces
+   ├── Interfaces < TypeScript Interfaces
    ├── Schema <---- Database Schema
    └── Slash <----- Slash Commands Folder
 ```

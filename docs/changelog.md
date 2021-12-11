@@ -31,4 +31,6 @@ Welcome to @shiraayuki! Thanks for contributing to this project!
 
 # [v4.0.0](https://github.com/gifaldyazkaa/kogasa-dscbot/releases/tag/v4.0.0)
 
+## 🤔 What's changed?
+
 - Rename Repository Name to **Koyori**

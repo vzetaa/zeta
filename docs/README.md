@@ -41,9 +41,26 @@ Here you can see How to Use, Installation, Command List, Contributing Guidelines
 
 ## 📢 Announcements
 
-### Updated to v4.0.0
+### \[Update] v4.0.0 is out!
 
 [Koyori](https://github.com/gifaldyazkaa/koyori-dscbot) is Getting an Update to `^v4.0.0` 🎉! See the changelog at [Changelog Release](https://github.com/gifaldyazkaa/koyori-dscbot/blob/master/docs/changelog.md).
+
+### \[News] Repository Name update every months\*
+
+**This repository will receive 1 (one) Name Changes update per month (or longer)**. It happens because my wife is constantly changing 😩 (lol, plz forgive me). So, don't be confused if this Repository Name updated and changed every months.
+
+Wanna know the update schedule, and next name? Who is that? Please go to [docs/rename-schedule.md](./docs/rename-schedule.md) to see the schedules.
+
+\* Please note this rules and terms will be applied and continue as long this repository is still active.
+
+---
+
+## ❤️ Credits
+
+- [COVER Corp](https://cover-corp.com/)
+- [Hololive](https://www.hololive.tv)
+- [holoX (Hololive Generation 6)](https://hololive.hololivepro.com/en/special/3268/)
+- [博衣こより (Hakui Koyori) Herself](https://twitter.com/hakuikoyori)
 
 ---
 
