@@ -4,5 +4,6 @@ node_modules/
 # Build output
 dist
 
-# Custom Docs Layouts
+# Custom Docs Layouts & Docs build result
 docs/_layouts/
+docs/_site/
