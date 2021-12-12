@@ -77,14 +77,16 @@ $ yarn dum
 
 Available scripts that defined at [package.json](https://github.com/gifaldyazkaa/kogasa-dscbot/blob/master/package.json)
 
-| Name           | Description                                |
-| -------------- | ------------------------------------------ |
-| `start`        | Start the bot                              |
-| `dev`          | Start the bot in Development mode          |
-| `build`        | Build the source code into JavaScript Code |
-| `lint`         | Lint the source code with ESLint           |
-| `format`       | Format the source code with Prettier       |
-| `check-format` | Check formatting with Prettier             |
+| Name            | Script         | Description                                |
+| --------------- | -------------- | ------------------------------------------ |
+| Start           | `start`        | Start the bot                              |
+| Development     | `dev`          | Start the bot in Development mode          |
+| CI Testing      | `ci`           | Start CI Testing Process                   |
+| Build           | `build`        | Build the source code into JavaScript Code |
+| Native Build    | `build:native` | Native build using `tsc`                   |
+| Linters         | `lint`         | Lint the source code with ESLint           |
+| Code Format     | `format`       | Format the source code with Prettier       |
+| Format Checking | `check-format` | Check formatting with Prettier             |
 
 ## 📂 Folder Structure
 
