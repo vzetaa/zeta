@@ -93,6 +93,7 @@ Available scripts that defined at [package.json](https://github.com/gifaldyazkaa
 ├── .github <------ GitHub CI & Dependabot Config
 ├── docs <--------- Documentation Folder
 └── src <---------- Source File
+   ├── Bin <------- Binaries Folder
    ├── Client <---- Client Folder
    ├── Commands <-- Commands Folder
    ├── Data <------ Custom Data Folder
