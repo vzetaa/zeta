@@ -8,7 +8,8 @@
 		"start": "ts-node --transpile-only ./src/index.ts",
 		"dev": "ts-node-dev --respawn --clear --rs --transpile-only --poll ./src/index.ts",
 		"ci": "ts-node --transpile-only ./src/Bin/CI.ts",
-		"build": "tsc",
+		"build": "ts-node --transpile-only ./src/Bin/Build.ts",
+		"build:native": "tsc",
 		"lint": "eslint .",
 		"format": "prettier -w .",
 		"check-format": "prettier -c ."
