@@ -7,13 +7,13 @@ export const event: Event = {
 		client.console.success(
 			`${chalk.bold.green(`[CLIENT]`)} ${client.user.tag} Ready`
 		);
-		// Set status to Invisible
-		client.user.setStatus('invisible');
+		// Set status to Idle
+		client.user.setStatus('idle');
 
-		// Set activity presence (Disabled cuz the status set into invisible)
-		// client.user.setActivity({
-		// 	name: `with My Husband 💕`,
-		// 	type: 'PLAYING',
-		// });
+		// Set activity presence
+		client.user.setActivity({
+			name: `with My Husband 💕`,
+			type: 'PLAYING',
+		});
 	},
 };
