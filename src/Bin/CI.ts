@@ -7,15 +7,43 @@ consola.info('Starting CI Process...\n');
 // Code Format Checking CI
 consola.info('Running Code Format Checking CI...');
 exec('yarn run check-format', (err, stdout, stderr) => {
-	if (err) return consola.error(err);
-	if (stderr) return consola.error(stdout);
+	if (err) {
+		consola.error('An error occured. Trying with npm...');
+		exec('npm run check-format', (err, stdout, stdim) => {
+			if (err) return consola.error(err);
+			if (stderr) return consola.error(stderr);
+			consola.success('Code Format Checking Passing.\n');
+		});
+	}
+	if (stderr) {
+		consola.error('An error occured. Trying with npm...');
+		exec('npm run check-format', (err, stdout, stdim) => {
+			if (err) return consola.error(err);
+			if (stderr) return consola.error(stderr);
+			consola.success('Code Format Checking Passing.\n');
+		});
+	}
 	consola.success('Code Format Checking Passing.\n');
 
 	// Linters CI
 	consola.info('Running Linters CI...');
 	exec('yarn run lint', (err, stdout, stderr) => {
-		if (err) return consola.error(err);
-		if (stderr) return consola.error(stdout);
+		if (err) {
+			consola.error('An error occured. Trying with npm...');
+			exec('npm run lint', (err, stdout, stdim) => {
+				if (err) return consola.error(err);
+				if (stderr) return consola.error(stderr);
+				consola.success('Linters Passing.\n');
+			});
+		}
+		if (stderr) {
+			consola.error('An error occured. Trying with npm...');
+			exec('npm run lint', (err, stdout, stdim) => {
+				if (err) return consola.error(err);
+				if (stderr) return consola.error(stderr);
+				consola.success('Linters Passing.\n');
+			});
+		}
 		consola.success('Linters Passing.\n');
 
 		// Display success message.
