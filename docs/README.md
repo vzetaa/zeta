@@ -36,6 +36,7 @@ Here you can see How to Use, Installation, Command List, Contributing Guidelines
   - [❓ Info Category](./p/commands/info.md)
   - [😳 Reddit Category](./p/commands/reddit.md)
   - [📂 Utility Category](./p/commands/utility.md)
+  - [✨ VTubers Category](./p/commands/vtubers.md)
 
 ---
 

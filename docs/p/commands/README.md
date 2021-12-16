@@ -51,3 +51,7 @@ Fetch Hentai, Lewds Anime Images from Listed Subreddits and Sent it to Discord.
 ### [📂 Utility Category](./utility.md)
 
 Table list of Utility category.
+
+### [✨ VTubers Category](./vtubers.md)
+
+Get Channel Information, Upcoming stream, and Video metadata from VTuber's channel.

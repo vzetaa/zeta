@@ -19,11 +19,13 @@
 	"dependencies": {
 		"cabul": "^0.0.15",
 		"chalk": "^4.1.2",
+		"color-thief-node": "^1.0.4",
 		"consola": "^2.15.3",
 		"danbooru": "^3.1.0",
 		"discord.js": "13.1.0",
 		"dotenv": "^10.0.0",
 		"glob": "^7.2.0",
+		"holodex.js": "^1.1.0",
 		"moment": "^2.29.1",
 		"mongoose": "5.13.13",
 		"node-fetch": "2.6.6",
@@ -53,8 +55,9 @@
 		"discord",
 		"discord-js",
 		"nsfw",
-		"touhou",
-		"kogasa"
+		"hololive",
+		"koyorin",
+		"holo-x"
 	],
 	"husky": {
 		"hooks": {
