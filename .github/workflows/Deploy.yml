@@ -24,3 +24,4 @@ jobs:
           HD_OWNERID: ${{secrets.OWNERID}}
           HD_ORIGIN_CHANNEL: ${{secrets.ORIGIN_CHANNEL}}
           HD_UPLOAD_CHANNEL: ${{secrets.UPLOAD_CHANNEL}}
+          HD_HOLODEX_APIKEY: ${{secrets.HOLODEX_APIKEY}}
