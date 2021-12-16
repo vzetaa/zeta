@@ -7,5 +7,6 @@ declare namespace NodeJS {
 		OWNERID: string;
 		ORIGIN_CHANNEL: string;
 		UPLOAD_CHANNEL: string;
+		HOLODEX_APIKEY: string;
 	}
 }
