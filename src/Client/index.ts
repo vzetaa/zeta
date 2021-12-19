@@ -29,9 +29,7 @@ class Bot extends Client {
 				.connect(this.config.MONGOURI, {
 					useNewUrlParser: true,
 					useUnifiedTopology: true,
-					useFindAndModify: false,
 					autoIndex: false,
-					poolSize: 5,
 					connectTimeoutMS: 30000,
 				})
 				.then(() => {
