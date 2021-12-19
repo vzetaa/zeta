@@ -33,4 +33,5 @@ Welcome to @shiraayuki! Thanks for contributing to this project!
 
 ## 🤔 What's changed?
 
-- Rename Repository Name to **Koyori**
+- Rename Repository Name to **Koyori** at #47
+- Add Vtubers Category at #54
