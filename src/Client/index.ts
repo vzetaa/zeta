@@ -25,16 +25,10 @@ class Bot extends Client {
 	public async init() {
 		this.login(this.config.TOKEN);
 		if (this.config.MONGOURI) {
-			mongoose
-				.connect(this.config.MONGOURI, {
-					useNewUrlParser: true,
-					useUnifiedTopology: true,
-					autoIndex: false,
-					connectTimeoutMS: 30000,
-				})
-				.then(() => {
-					this.console.success(`${chalk.bold.green('[DATABASE]')} Connected`);
-				});
+			mongoose.connect(this.config.MONGOURI, {
+				autoIndex: true,
+				connectTimeoutMS: 3000,
+			});
 		} else {
 			this.console.info(`You don't have mongoURI`);
 		}
