@@ -50,7 +50,7 @@ Here you can see How to Use, Installation, Command List, Contributing Guidelines
 
 **This repository will receive 1 (one) Name Changes update per month (or longer)**. It happens because my wife is constantly changing 😩 (lol, plz forgive me). So, don't be confused if this Repository Name updated and changed every months.
 
-Wanna know the update schedule, and next name? Who is that? Please go to [docs/rename-schedule.md](./docs/rename-schedule.md) to see the schedules.
+Wanna know the update schedule, and next name? Who is that? Please go to [Rename Schedule](./rename-schedule.md) to see the schedules.
 
 \* Please note this rules and terms will be applied and continue as long this repository is still active.
 
