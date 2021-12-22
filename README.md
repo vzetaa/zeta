@@ -1,10 +1,10 @@
-<img src="https://cdn.upload.systems/uploads/x9kVZhqu.png" alt="Koyorin" style="float: left; margin: 0 10px 0 0;" align="left" height="150" width="150">
+<img src="https://cdn.upload.systems/uploads/x9kVZhqu.png" alt="Koyorin" style="float: left; margin: 0 10px 0 0; pointer-events: none;" align="left" height="150" width="150">
 
 ## 🧪 Hakui Koyori#5354
-  
+
 Beloved Maid and Helper Discord Bot for My Private Discord Servers ✨
 
-[![Deploy workflows](https://img.shields.io/github/workflow/status/gifaldyazkaa/koyori-dscbot/%5BHeroku%5D%20Deploy?label=Deploy&logo=github%20actions&style=for-the-badge)](https://github.com/gifaldyazkaa/koyori-dscbot/blob/master/.github/workflows/Deploy.yml) [![Project Version](https://img.shields.io/github/package-json/v/gifaldyazkaa/koyori-dscbot?logo=node.js&style=for-the-badge)](https://github.com/gifaldyazkaa/koyori-dscbot/blob/master/package.json)
+[![Deploy workflows](https://img.shields.io/github/workflow/status/gifaldyazkaa/koyori-dscbot/%5BHeroku%5D%20Deploy?label=Deploy&logo=github%20actions&style=for-the-badge)](./.github/workflows/Deploy.yml) [![Project Version](https://img.shields.io/github/package-json/v/gifaldyazkaa/koyori-dscbot?logo=node.js&style=for-the-badge)](./package.json)
 
 ## 📄 Documentation
 
