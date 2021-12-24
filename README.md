@@ -1,14 +1,14 @@
 <img src="https://cdn.upload.systems/uploads/x9kVZhqu.png" alt="Koyorin" style="float: left; margin: 0 10px 0 0; pointer-events: none;" align="left" height="150" width="150">
 
-## 🧪 Hakui Koyori#5354
+## 🧪 Koyorin#5354
 
-Beloved Maid and Helper Discord Bot for My Private Discord Servers ✨
+Our Beloved Maid and Helper Discord Bot ✨
 
-[![Deploy workflows](https://img.shields.io/github/workflow/status/gifaldyazkaa/koyori-dscbot/%5BHeroku%5D%20Deploy?label=Deploy&logo=github%20actions&style=for-the-badge)](./.github/workflows/Deploy.yml) [![Project Version](https://img.shields.io/github/package-json/v/gifaldyazkaa/koyori-dscbot?logo=node.js&style=for-the-badge)](./package.json)
+[![Deploy workflows](https://img.shields.io/github/workflow/status/gifaldyazkaa/koyorin/%5BHeroku%5D%20Deploy?label=Deploy&logo=github%20actions&style=for-the-badge)](./.github/workflows/Deploy.yml) [![Project Version](https://img.shields.io/github/package-json/v/gifaldyazkaa/koyorin?logo=node.js&style=for-the-badge)](./package.json)
 
 ## 📄 Documentation
 
-You can go to [Documentation page](https://gifaldyazka.is-a.dev/koyori-dscbot) if you want to read How to use, Installation, Command list, and Contributing Terms. Thanks...
+You can go to [Documentation page](https://gifaldyazka.is-a.dev/koyorin) if you want to read How to use, Installation, Command list, and Contributing Terms. Thanks~!
 
 > The Documentation powered by [**🐈 GitHub Pages**](https://pages.github.com) and [**✨ Cayman**](https://github.com/pages-themes/cayman) theme.
 
