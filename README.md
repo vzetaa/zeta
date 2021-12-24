@@ -1,4 +1,6 @@
-<img src="https://cdn.upload.systems/uploads/x9kVZhqu.png" alt="Koyorin" style="float: left; margin: 0 10px 0 0; pointer-events: none;" align="left" height="150" width="150">
+<a href="https://gifaldyazka.is-a.dev/koyorin">
+    <img src="https://cdn.upload.systems/uploads/x9kVZhqu.png" alt="Koyorin" style="float: left; margin: 0 10px 0 0; pointer-events: none;" align="left" height="150" width="150">
+</a>
 
 ## 🧪 Koyorin#5354
 
