@@ -1,0 +1,16 @@
+version = 1
+
+[merge]
+automerge_label = "🤖 Auto merge"
+blocking_labels = ["❌ Invalid"]
+method = "squash"
+
+[merge.message]
+title = "pull_request_title"
+body_type = "markdown"
+include_pr_number = true
+strip_html_comments = true
+
+[merge.automerge_dependecies]
+versions = ["minor", "patch"]
+usernames = ["dependabot"]
