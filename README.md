@@ -27,4 +27,4 @@ You can go to [Documentation page](https://gifaldyazka.is-a.dev/koyorin) if you 
 
 ## 📃 License
 
-[Koyori](#) is Licensed under [Apache-2.0](./LICENSE) License.
+[Koyorin](#) is Licensed under [Apache-2.0](./LICENSE) License.
