@@ -42,9 +42,9 @@ Here you can see How to Use, Installation, Command List, Contributing Guidelines
 
 ## 📢 Announcements
 
-### \[Update] v4.0.0 is out!
+### [Update] v4.0.0 is out!
 
-[Koyori](https://github.com/gifaldyazkaa/koyorin) is Getting an Update to `^v4.0.0` 🎉! See the changelog at [Changelog Release](https://github.com/gifaldyazkaa/koyorin/blob/master/docs/changelog.md).
+[Koyorin](https://github.com/gifaldyazkaa/koyorin) is Updated to `^v4.0.0` 🎉! See the changelog at [Changelog Release](https://github.com/gifaldyazkaa/koyorin/blob/master/docs/changelog.md).
 
 ---
 
