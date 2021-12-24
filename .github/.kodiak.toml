@@ -3,7 +3,7 @@ version = 1
 [merge]
 automerge_label = "🤖 Auto merge"
 blocking_labels = ["❌ Invalid"]
-method = "squash"
+method = "merge"
 
 [merge.message]
 title = "pull_request_title"
