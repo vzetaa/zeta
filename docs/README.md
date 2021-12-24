@@ -1,16 +1,16 @@
 # 🧪 Hakui Koyori#5354
 
-[![Banner](https://cdn.upload.systems/uploads/VNEql7wF.jpg)](https://github.com/gifaldyazkaa/koyori-dscbot)
+[![Banner](https://cdn.upload.systems/uploads/VNEql7wF.jpg)](https://github.com/gifaldyazkaa/koyorin)
 
-[![Deploy workflows](https://img.shields.io/github/workflow/status/gifaldyazkaa/koyori-dscbot/%5BHeroku%5D%20Deploy?label=Deploy&logo=github%20actions&style=for-the-badge)](https://github.com/gifaldyazkaa/koyori-dscbot/blob/master/.github/workflows/Deploy.yml) [![Made with TypeScript](https://img.shields.io/github/languages/top/gifaldyazkaa/koyori-dscbot?logo=typescript&style=for-the-badge)](https://github.com/gifaldyazkaa/koyori-dscbot/search?l=typescript) [![Project Version](https://img.shields.io/github/package-json/v/gifaldyazkaa/koyori-dscbot?logo=node.js&style=for-the-badge)](https://github.com/gifaldyazkaa/koyori-dscbot/blob/master/package.json) [![Discord.js Version](https://img.shields.io/github/package-json/dependency-version/gifaldyazkaa/koyori-dscbot/discord.js?logo=discord&style=for-the-badge)](https://github.com/gifaldyazkaa/koyori-dscbot/blob/735d177cc8b6e1796b5eb3f4a32e10a845e78763/package.json#L25)
+[![Deploy workflows](https://img.shields.io/github/workflow/status/gifaldyazkaa/koyorin/%5BHeroku%5D%20Deploy?label=Deploy&logo=github%20actions&style=for-the-badge)](https://github.com/gifaldyazkaa/koyorin/blob/master/.github/workflows/Deploy.yml) [![Made with TypeScript](https://img.shields.io/github/languages/top/gifaldyazkaa/koyorin?logo=typescript&style=for-the-badge)](https://github.com/gifaldyazkaa/koyorin/search?l=typescript) [![Project Version](https://img.shields.io/github/package-json/v/gifaldyazkaa/koyorin?logo=node.js&style=for-the-badge)](https://github.com/gifaldyazkaa/koyorin/blob/master/package.json) [![Discord.js Version](https://img.shields.io/github/package-json/dependency-version/gifaldyazkaa/koyorin/discord.js?logo=discord&style=for-the-badge)](https://github.com/gifaldyazkaa/koyorin/blob/735d177cc8b6e1796b5eb3f4a32e10a845e78763/package.json#L25)
 
 ---
 
 ## 👋 Welcome!
 
-Welcome to Documentations of [Koyori](https://github.com/gifaldyazkaa/koyori-dscbot)!
+Welcome to Documentations of [Koyori](https://github.com/gifaldyazkaa/koyorin)!
 
-[Koyori](https://github.com/gifaldyazkaa/koyori-dscbot) is a Maid and Helper Discord Bot in My Private Server 💖
+[Koyorin](https://github.com/gifaldyazkaa/koyorin) is Our beloved Maid and Helper Discord Bot 💖
 
 Here you can see How to Use, Installation, Command List, Contributing Guidelines, etc.
 
@@ -44,15 +44,7 @@ Here you can see How to Use, Installation, Command List, Contributing Guidelines
 
 ### \[Update] v4.0.0 is out!
 
-[Koyori](https://github.com/gifaldyazkaa/koyori-dscbot) is Getting an Update to `^v4.0.0` 🎉! See the changelog at [Changelog Release](https://github.com/gifaldyazkaa/koyori-dscbot/blob/master/docs/changelog.md).
-
-### \[News] Repository Name update every months\*
-
-**This repository will receive 1 (one) Name Changes update per month (or longer)**. It happens because my wife is constantly changing 😩 (lol, plz forgive me). So, don't be confused if this Repository Name updated and changed every months.
-
-Wanna know the update schedule, and next name? Who is that? Please go to [Rename Schedule](./rename-schedule.md) to see the schedules.
-
-\* Please note this rules and terms will be applied and continue as long this repository is still active.
+[Koyori](https://github.com/gifaldyazkaa/koyorin) is Getting an Update to `^v4.0.0` 🎉! See the changelog at [Changelog Release](https://github.com/gifaldyazkaa/koyorin/blob/master/docs/changelog.md).
 
 ---
 
@@ -67,4 +59,4 @@ Wanna know the update schedule, and next name? Who is that? Please go to [Rename
 
 ## 📃 License
 
-[Koyori](https://github.com/gifaldyazkaa/koyori-dscbot) is Licensed under [Apache-2.0](https://github.com/gifaldyazkaa/koyori-dscbot/blob/master/LICENSE) License.
+[Koyori](https://github.com/gifaldyazkaa/koyorin) is Licensed under [Apache-2.0](https://github.com/gifaldyazkaa/koyorin/blob/master/LICENSE) License.
