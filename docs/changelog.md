@@ -55,6 +55,6 @@ Welcome to [@jstcl](https://github.com/jstcl)! Thanks for contributing to this p
 - Add `CODEOWNERS` file to `./.github/` and specify code owners at commit [4f2fb32](https://github.com/gifaldyazkaa/koyorin/commit/4f2fb328abc137a6748845873dacd78ece02f59c)
 - Some minor updates from [@gifaldyazkaa](https://github.com/gifaldyazkaa) and [@jstcl](https://github.com/jstcl)
 
-### 👨‍💻 New Collabolators
+### 👨‍💻 New Collaborators
 
 Say welcome to [@jstcl](https://github.com/jstcl) (Josh)!
