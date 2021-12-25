@@ -52,7 +52,7 @@ Welcome to [@jstcl](https://github.com/jstcl)! Thanks for contributing to this p
 
 [![Readme Preview](https://cdn.upload.systems/uploads/tplrsTIw.png)](https://i.upload.systems/tplrsTIw)
 
-- Add `CODEOWNERS` file to `./.github/` and specify code owners at commit [4f2fb32](https://github.com/gifaldyazkaa/koyorin/commit/4f2fb328abc137a6748845873dacd78ece02f59c)
+- Add `CODEOWNERS` file to `/.github/` and specify code owners at commit [4f2fb32](https://github.com/gifaldyazkaa/koyorin/commit/4f2fb328abc137a6748845873dacd78ece02f59c)
 - Some minor updates from [@gifaldyazkaa](https://github.com/gifaldyazkaa) and [@jstcl](https://github.com/jstcl)
 
 ### 👨‍💻 New Collaborators
