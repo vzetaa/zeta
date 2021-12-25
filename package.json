@@ -17,6 +17,7 @@
 	"author": "Gifaldy Azka",
 	"license": "Apache-2.0",
 	"dependencies": {
+		"@types/node": "^17.0.4",
 		"cabul": "^0.0.15",
 		"chalk": "^4.1.2",
 		"color-thief-node": "^1.0.4",
@@ -38,7 +39,6 @@
 	"devDependencies": {
 		"@commitlint/cli": "^15.0.0",
 		"@commitlint/config-angular": "^15.0.0",
-		"@types/node": "^17.0.4",
 		"@typescript-eslint/eslint-plugin": "^5.8.0",
 		"@typescript-eslint/parser": "^5.8.0",
 		"eslint": "^8.5.0",
@@ -47,8 +47,7 @@
 		"prettier": "^2.5.1"
 	},
 	"engines": {
-		"node": "16.x",
-		"yarn": "1.x"
+		"node": "16.x"
 	},
 	"keywords": [
 		"bot",
@@ -97,5 +96,6 @@
 				]
 			]
 		}
-	}
+	},
+	"packageManager": "yarn@3.1.1"
 }
