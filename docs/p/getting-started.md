@@ -100,7 +100,6 @@ Available scripts that defined at [package.json](https://github.com/gifaldyazkaa
    ├── Commands <-- Commands Folder
    ├── Data <------ Custom Data Folder
    ├── Events<----- Events Folder
-   ├── index.ts <-- Main File
    ├── Interfaces < TypeScript Interfaces
    ├── Schema <---- Database Schema
    └── Slash <----- Slash Commands Folder
