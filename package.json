@@ -37,8 +37,6 @@
 		"typescript": "^4.5.4"
 	},
 	"devDependencies": {
-		"@commitlint/cli": "^15.0.0",
-		"@commitlint/config-angular": "^15.0.0",
 		"@typescript-eslint/eslint-plugin": "^5.8.0",
 		"@typescript-eslint/parser": "^5.8.0",
 		"eslint": "^8.5.0",
@@ -56,34 +54,5 @@
 		"hololive",
 		"koyorin",
 		"holo-x"
-	],
-	"commitlint": {
-		"extends": [
-			"@commitlint/config-angular"
-		],
-		"rules": {
-			"scope-case": [
-				2,
-				"always",
-				"pascal-case"
-			],
-			"type-enum": [
-				2,
-				"always",
-				[
-					"chore",
-					"build",
-					"ci",
-					"docs",
-					"feat",
-					"fix",
-					"perf",
-					"refactor",
-					"revert",
-					"style",
-					"test"
-				]
-			]
-		}
-	}
+	]
 }
