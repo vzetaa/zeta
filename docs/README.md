@@ -8,9 +8,9 @@
 
 ## 👋 Welcome!
 
-Welcome to Documentations of [Koyorin](https://github.com/gifaldyazkaa/koyorin)!
+Welcome to Documentations of [Koyorin](https://github.com/gifaldyazkaa/koyorin)~!
 
-[Koyorin](https://github.com/gifaldyazkaa/koyorin) is Our beloved Maid and Helper Discord Bot 💖
+[Koyorin](https://github.com/gifaldyazkaa/koyorin) is Our beloved Maid and Helper Discord Bot ✨
 
 Here you can see How to Use, Installation, Command List, Contributing Guidelines, etc.
 
