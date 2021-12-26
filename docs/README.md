@@ -8,7 +8,7 @@
 
 ## 👋 Welcome!
 
-Welcome to Documentations of [Koyori](https://github.com/gifaldyazkaa/koyorin)!
+Welcome to Documentations of [Koyorin](https://github.com/gifaldyazkaa/koyorin)!
 
 [Koyorin](https://github.com/gifaldyazkaa/koyorin) is Our beloved Maid and Helper Discord Bot 💖
 
@@ -59,4 +59,4 @@ Here you can see How to Use, Installation, Command List, Contributing Guidelines
 
 ## 📃 License
 
-[Koyori](https://github.com/gifaldyazkaa/koyorin) is Licensed under [Apache-2.0](https://github.com/gifaldyazkaa/koyorin/blob/master/LICENSE) License.
+[Koyorin](https://github.com/gifaldyazkaa/koyorin) is Licensed under [Apache-2.0](https://github.com/gifaldyazkaa/koyorin/blob/master/LICENSE) License.
