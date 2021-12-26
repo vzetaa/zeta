@@ -54,5 +54,3 @@ Here you can see How to Use, Installation, Command List, Contributing Guidelines
 - [Hololive](https://www.hololive.tv)
 - [holoX (Hololive Generation 6)](https://hololive.hololivepro.com/en/special/3268/)
 - [博衣こより (Hakui Koyori) Herself](https://twitter.com/hakuikoyori)
-
----
