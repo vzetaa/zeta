@@ -13,7 +13,7 @@ Or you can click [discord.com/users/78826...](https://discord.com/users/78826023
 ### 🖼️ Help Desk Preview
 
 <div align="center">
-    <a href="https://i.upload.systems/DdGrSu8a" target="_blank">
-        <img src="https://cdn.upload.systems/uploads/DdGrSu8a.png" alt="Help Desk Preview">
+    <a href="https://i.upload.systems/64lMDjGm" target="_blank">
+        <img src="https://cdn.upload.systems/uploads/64lMDjGm.png" alt="Help Desk Preview">
     </a>
 </div>
