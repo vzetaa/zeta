@@ -56,7 +56,3 @@ Here you can see How to Use, Installation, Command List, Contributing Guidelines
 - [博衣こより (Hakui Koyori) Herself](https://twitter.com/hakuikoyori)
 
 ---
-
-## 📃 License
-
-[Koyorin](https://github.com/gifaldyazkaa/koyorin) is Licensed under [Apache-2.0](https://github.com/gifaldyazkaa/koyorin/blob/master/LICENSE) License.
