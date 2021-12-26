@@ -7,9 +7,7 @@
 	"scripts": {
 		"start": "ts-node --transpile-only ./src/index.ts",
 		"dev": "ts-node-dev --respawn --clear --rs --transpile-only --poll ./src/index.ts",
-		"ci": "ts-node --transpile-only ./src/Bin/CI.ts",
-		"build": "ts-node --transpile-only ./src/Bin/Build.ts",
-		"build:native": "tsc",
+		"build": "tsc",
 		"lint": "eslint .",
 		"format": "prettier -w .",
 		"check-format": "prettier -c ."
