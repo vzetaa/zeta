@@ -81,9 +81,7 @@ Available scripts that defined at [package.json](https://github.com/gifaldyazkaa
 | --------------- | -------------- | ------------------------------------------ |
 | Start           | `start`        | Start the bot                              |
 | Development     | `dev`          | Start the bot in Development mode          |
-| CI Testing      | `ci`           | Start CI Testing Process                   |
 | Build           | `build`        | Build the source code into JavaScript Code |
-| Native Build    | `build:native` | Native build using `tsc`                   |
 | Linters         | `lint`         | Lint the source code with ESLint           |
 | Code Format     | `format`       | Format the source code with Prettier       |
 | Format Checking | `check-format` | Check formatting with Prettier             |
@@ -95,7 +93,6 @@ Available scripts that defined at [package.json](https://github.com/gifaldyazkaa
 ├── .github <------ GitHub CI & Dependabot Config
 ├── docs <--------- Documentation Folder
 └── src <---------- Source File
-   ├── Bin <------- Binaries Folder
    ├── Client <---- Client Folder
    ├── Commands <-- Commands Folder
    ├── Data <------ Custom Data Folder
