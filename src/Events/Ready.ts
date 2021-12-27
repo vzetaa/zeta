@@ -12,7 +12,7 @@ export const event: Event = {
 
 		// Set activity presence
 		client.user.setActivity({
-			name: `with My Husband 💕`,
+			name: `with Servers ✨`,
 			type: 'PLAYING',
 		});
 	},
