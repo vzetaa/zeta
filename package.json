@@ -17,7 +17,7 @@
 	"dependencies": {
 		"@types/node": "17.0.8",
 		"cabul": "0.0.15",
-		"chalk": "4.1.2",
+		"chalk": "5.0.0",
 		"color-thief-node": "1.0.4",
 		"consola": "2.15.3",
 		"danbooru": "3.1.0",
