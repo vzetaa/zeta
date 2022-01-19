@@ -18,12 +18,12 @@ Why i'm building this bot?
 
 ```sh
 # Using Git
-$ git clone https://github.com/gifaldyazkaa/koyori-dscbot.git
-$ cd koyori-dscbot
+$ git clone https://github.com/gifaldyazkaa/koyorin.git
+$ cd koyorin
 
 # GitHub CLI
-$ gh repo clone gifaldyazkaa/koyori-dscbot
-$ cd koyori-dscbot
+$ gh repo clone gifaldyazkaa/koyorin
+$ cd koyorin
 ```
 
 ### 📦 Install all required dependencies
