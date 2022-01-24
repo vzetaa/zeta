@@ -1,28 +1,16 @@
 ## 📚 Commands
 
-Commands List of [Koyori Discord Bot](https://github.com/gifaldyazkaa/koyori-dscbot)
-
----
-
-### 📂 File Totals
-
-```bat
-Normal Commands : 42
-Slash Commands  : 10
-Database Schema : 1
-Custom Data     : 2
-Interfaces      : 5
-Events          : 5
---------------------
-Commands Totals : 52
-All Totals      : 65
-```
+Commands List of [Koyorin Discord Bot](https://github.com/gifaldyazkaa/koyori-dscbot)
 
 ---
 
 ### [👑 Admin (Owner) Category](./admin.md)
 
 Bot owner-only command. Very powerful and dangerous to use!
+
+### [⚓ Azur Lane Category](./azurlane.md)
+
+Azur Lane wiki alternative.
 
 ### [🗄️ Database Category](./database.md)
 
