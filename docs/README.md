@@ -30,6 +30,7 @@ Here you can see How to Use, Installation, Command List, Contributing Guidelines
   - [❓ Why](./p/inviting.md#-why)
 - [📚 Commands](./p/commands)
   - [👑 Admin (Owner) Category](./p/commands/admin.md)
+  - [⚓ Azur Lane Category](./p/commands/azurlane.md)
   - [🗄️ Database Category](./p/commands/database.md)
   - [🧾 Documents Category](./p/commands/documents.md)
   - [🖼️ Image Category](./p/commands/images.md)
