@@ -1,5 +1,5 @@
 import { Command } from '../../Interfaces';
-import fetch from 'node-fetch';
+import Lewd from '../../Exports/LewImg';
 
 export const command: Command = {
 	name: 'nekobot',
@@ -13,10 +13,11 @@ export const command: Command = {
 		if (message.channel.type === 'GUILD_TEXT' && !message.channel.nsfw)
 			return message.reply({ content: `Not an NSFW Channel!` });
 		if (!endpoint) endpoint = 'kemonomimi';
-		fetch(`https://nekobot.xyz/api/image?type=${endpoint}`)
-			.then((res) => res.json())
-			.then((body) => {
-				message.channel.send({ content: `${body.message}` });
-			});
+		try {
+			const res = await Lewd.nekobot(endpoint);
+			message.channel.send({ content: res.message });
+		} catch (e) {
+			console.log(e);
+		}
 	},
 };

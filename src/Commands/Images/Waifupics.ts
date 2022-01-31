@@ -1,5 +1,5 @@
 import { Command } from '../../Interfaces';
-import fetch from 'node-fetch';
+import Lewd from '../../Exports/LewImg';
 
 export const command: Command = {
 	name: 'waifupics',
@@ -13,13 +13,11 @@ export const command: Command = {
 		if (message.channel.type === 'GUILD_TEXT' && !message.channel.nsfw)
 			return message.reply({ content: `Not an NSFW Channel!` });
 		if (!type) type = 'neko';
-		fetch(`https://api.waifu.pics/nsfw/${type}`)
-			.then((res) => res.json())
-			.then((body) => {
-				message.channel.send({ content: `${body.url}` });
-			})
-			.catch((err) => {
-				console.log(err);
-			});
+		try {
+			const res = await Lewd.waifupics(type);
+			message.channel.send({ content: res.url });
+		} catch (e) {
+			console.log(e);
+		}
 	},
 };
