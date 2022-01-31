@@ -25,9 +25,9 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: version
+    id: node-version
     attributes:
-      label: node-version
+      label: Node version
       description: What node version are you running?
       options:
         - '16.x'
@@ -37,12 +37,14 @@ body:
   - type: dropdown
     id: pkg-man
     attributes:
-      label: What package manager are you using?
-      multiple: true
+      label: Package manager
+      description: What package manager are you using?
       options:
         - 'yarn'
         - 'npm'
         - 'pnpm'
+    validations:
+      required: true
   - type: textarea
     attributes:
       label: Environment used
@@ -51,8 +53,8 @@ body:
           - **OS**: Arch
           - **Node**: 16.13.0
       value: |
-        - OS:
-        - Node:
+        - **OS**:
+        - **Node**:
       render: markdown
     validations:
       required: true
