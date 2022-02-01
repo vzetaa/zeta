@@ -27,7 +27,7 @@
 		"holodex.js": "1.1.0",
 		"moment": "2.29.1",
 		"mongoose": "6.1.9",
-		"node-cron": "^3.0.0",
+		"node-cron": "3.0.0",
 		"node-fetch": "2.6.7",
 		"pretty-ms": "7.0.1",
 		"rss-parser": "3.12.0",
