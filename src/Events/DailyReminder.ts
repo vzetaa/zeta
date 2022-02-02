@@ -5,7 +5,7 @@ import cron from 'node-cron';
 export const event: Event = {
 	name: 'ready',
 	run: async (client, message: Message) => {
-		const cronjob_EN: string = '0 07 * * *';
+		const cronjob_EN: string = '0 7 * * *';
 		const cronjob_JP: string = '0 15 * * *';
 		const cronjob_CN: string = '0 16 * * *';
 		const azurlaneRole: string = '<@&933923505727242300>';
