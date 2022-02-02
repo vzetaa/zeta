@@ -5,9 +5,9 @@ import cron from 'node-cron';
 export const event: Event = {
 	name: 'ready',
 	run: async (client, message: Message) => {
-		const cronjob_EN: string = '0 14 * * *'; // Reminders every day at 2pm
-		const cronjob_JP: string = '0 22 * * *'; // Reminders every day at 10pm
-		const cronjob_CN: string = '0 23 * * *'; // Reminders every day at 11pm
+		const cronjob_EN: string = '0 07 * * *';
+		const cronjob_JP: string = '0 15 * * *';
+		const cronjob_CN: string = '0 16 * * *';
 		const azurlaneRole: string = '<@&933923505727242300>';
 		const webhookId: string = '937933680607899649';
 		const webhookToken: string =
