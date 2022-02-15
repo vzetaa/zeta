@@ -37,8 +37,8 @@
 		"typescript": "4.5.5"
 	},
 	"devDependencies": {
-		"@typescript-eslint/eslint-plugin": "5.11.0",
-		"@typescript-eslint/parser": "5.11.0",
+		"@typescript-eslint/eslint-plugin": "5.12.0",
+		"@typescript-eslint/parser": "5.12.0",
 		"eslint": "8.9.0",
 		"prettier": "2.5.1"
 	},
