@@ -2,6 +2,7 @@
 	"name": "koyori",
 	"version": "4.0.0",
 	"description": "🧪 Maid and Helper Discord Bot for My Private Discord Server",
+	"homepage": "https://gifaldyazka.is-a.dev/koyorin",
 	"main": "index.js",
 	"private": true,
 	"scripts": {
