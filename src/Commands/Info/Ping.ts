@@ -10,7 +10,7 @@ export const command: Command = {
 	permissions: ['SEND_MESSAGES'],
 	run: async (client, message, args) => {
 		const embed = new MessageEmbed()
-			.setDescription(`Ping Latency : ${client.ws.ping}ms!`)
+			.setDescription(`:signal_strength: Ping Latency : ${client.ws.ping}ms!`)
 			.setColor('LUMINOUS_VIVID_PINK');
 		message.channel.send({ embeds: [embed] });
 	},

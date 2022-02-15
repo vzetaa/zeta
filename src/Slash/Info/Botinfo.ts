@@ -1,4 +1,4 @@
-import module from '../../../package.json';
+import module, {homepage} from '../../../package.json';
 import { MessageEmbed } from 'discord.js';
 import { Slash } from '../../Interfaces';
 import moment from 'moment';
@@ -18,11 +18,11 @@ export const slash: Slash = {
 					process.env.PREFIX
 				}\`\nCreated at : ${moment(client.user.createdAt).format(
 					'llll'
-				)}\nRepository : https://github.com/gifaldyazkaa/koyori-dscbot\nDocumentation : https://gifaldyazka.is-a.dev/koyori-dscbot/`
+				)}\nRepository : https://github.com/gifaldyazkaa/koyorin\nDocumentation : ${homepage}`
 			)
 			.addField(
 				'Core Information',
-				`Project-type : Node.js Application\nProject version : v${module.version}\nDiscord.js version : ^${module.dependencies['discord.js']}\nMongoose version : ^${module.dependencies.mongoose}\nTypeScript version : ${module.dependencies.typescript}`
+				`Project-type : Node.js Application\nProject version : v${module.version}\nDiscord.js version : v${module.dependencies['discord.js']}\nMongoose version : v${module.dependencies.mongoose}\nTypeScript version : v${module.dependencies.typescript}`
 			)
 			.setColor('LUMINOUS_VIVID_PINK')
 			.setTimestamp();
