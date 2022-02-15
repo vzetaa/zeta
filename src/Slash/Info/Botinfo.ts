@@ -1,4 +1,4 @@
-import module, {homepage} from '../../../package.json';
+import module, { homepage } from '../../../package.json';
 import { MessageEmbed } from 'discord.js';
 import { Slash } from '../../Interfaces';
 import moment from 'moment';

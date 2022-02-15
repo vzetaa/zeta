@@ -1,6 +1,6 @@
 import { MessageEmbed } from 'discord.js';
 import { Slash } from '../../Interfaces';
-import {homepage} from '../../../package.json';
+import { homepage } from '../../../package.json';
 
 export const slash: Slash = {
 	name: 'help',
