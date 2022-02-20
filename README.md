@@ -29,8 +29,8 @@ You can go to [Documentation page](https://gifaldyazka.is-a.dev/koyorin) if you 
 
 Here are some wonderful people who contributing to this project
 
-<!-- readme: gifaldyazkaa,jstcl,Gifaldyazka,contributors,renovate-bot,ImgBotApp,bots -start -->
-<!-- readme: gifaldyazkaa,jstcl,Gifaldyazka,contributors,renovate-bot,ImgBotApp,bots -end -->
+<!-- readme: gifaldyazkaa,collabolators,contributors,bots -start -->
+<!-- readme: gifaldyazkaa,collabolators,contributors,bots -end -->
 
 ## 📃 License
 
