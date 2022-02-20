@@ -25,6 +25,13 @@ You can go to [Documentation page](https://gifaldyazka.is-a.dev/koyorin) if you 
 - [holoX (Hololive Generation 6)](https://hololive.hololivepro.com/en/special/3268/)
 - [博衣こより (Hakui Koyori) Herself](https://twitter.com/hakuikoyori)
 
+## ✨ Contributors
+
+Here are some wonderful people who contributing to this project
+
+<!-- readme: gifaldyazkaa,jstcl,Gifaldyazka,contributors,renovate-bot,ImgBotApp,bots -start -->
+<!-- readme: gifaldyazkaa,jstcl,Gifaldyazka,contributors,renovate-bot,ImgBotApp,bots -end -->
+
 ## 📃 License
 
 [Koyorin](#) is Licensed under [Apache-2.0](./LICENSE) License.
