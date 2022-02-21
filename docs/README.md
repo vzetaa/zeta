@@ -1,4 +1,4 @@
-# 🧪 Hakui Koyori#5354
+# 🧪 Koyorin#5354
 
 [![Banner](https://cdn.upload.systems/uploads/VNEql7wF.jpg)](https://github.com/gifaldyazkaa/koyorin)
 
