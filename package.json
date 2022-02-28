@@ -27,7 +27,7 @@
 		"glob": "7.2.0",
 		"holodex.js": "1.1.0",
 		"moment": "2.29.1",
-		"mongoose": "6.2.3",
+		"mongoose": "6.2.4",
 		"node-cron": "3.0.0",
 		"node-fetch": "2.6.7",
 		"pretty-ms": "7.0.1",
