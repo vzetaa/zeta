@@ -19,7 +19,6 @@
 		"@types/node": "17.0.8",
 		"cabul": "0.0.15",
 		"chalk": "4.1.2",
-		"color-thief-node": "1.0.4",
 		"consola": "2.15.3",
 		"danbooru": "3.1.0",
 		"discord.js": "13.6.0",
