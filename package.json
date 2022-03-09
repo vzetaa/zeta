@@ -26,7 +26,7 @@
 		"glob": "7.2.0",
 		"holodex.js": "1.1.0",
 		"moment": "2.29.1",
-		"mongoose": "6.2.4",
+		"mongoose": "6.2.5",
 		"node-cron": "3.0.0",
 		"node-fetch": "2.6.7",
 		"pretty-ms": "7.0.1",
@@ -36,8 +36,8 @@
 		"typescript": "4.6.2"
 	},
 	"devDependencies": {
-		"@typescript-eslint/eslint-plugin": "5.13.0",
-		"@typescript-eslint/parser": "5.13.0",
+		"@typescript-eslint/eslint-plugin": "5.14.0",
+		"@typescript-eslint/parser": "5.14.0",
 		"eslint": "8.10.0",
 		"prettier": "2.5.1"
 	},
