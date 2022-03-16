@@ -39,7 +39,7 @@
 		"@typescript-eslint/eslint-plugin": "5.15.0",
 		"@typescript-eslint/parser": "5.15.0",
 		"eslint": "8.11.0",
-		"prettier": "2.5.1"
+		"prettier": "2.6.0"
 	},
 	"engines": {
 		"node": "16.x",
