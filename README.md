@@ -1,4 +1,4 @@
-<a href="https://falcxxdev.ml/koyorin">
+<a href="https://koyorin.gq/">
     <img src="https://cdn.upload.systems/uploads/x9kVZhqu.png" alt="Koyorin" style="float: left; margin: 0 10px 0 0; pointer-events: none;" align="left" height="150" width="150">
 </a>
 
@@ -10,7 +10,7 @@ Our Beloved Maid and Helper Discord Bot ✨
 
 ## 📄 Documentation
 
-You can go to [Documentation page](https://falcxxdev.ml/koyorin) if you want to read How to use, Installation, Command list, and Contributing Terms. Thanks~!
+You can go to [Documentation page](https://koyorin.gq/) if you want to read How to use, Installation, Command list, and Contributing Terms. Thanks~!
 
 > The Documentation powered by [**🐈 GitHub Pages**](https://pages.github.com) and [**✨ Cayman**](https://github.com/pages-themes/cayman) theme.
 
