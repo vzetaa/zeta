@@ -2,7 +2,7 @@
 	"name": "koyori",
 	"version": "4.0.0",
 	"description": "🧪 Maid and Helper Discord Bot for My Private Discord Server",
-	"homepage": "https://gifaldyazka.is-a.dev/koyorin",
+	"homepage": "https://koyorin.gq",
 	"main": "index.js",
 	"private": true,
 	"scripts": {
@@ -13,7 +13,7 @@
 		"format": "prettier -w .",
 		"check-format": "prettier -c ."
 	},
-	"author": "Gifaldy Azka",
+	"author": "Gifaldy Azka <@gifaldyazkaa>",
 	"license": "Apache-2.0",
 	"dependencies": {
 		"@types/node": "17.0.8",
