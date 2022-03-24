@@ -48,7 +48,7 @@ export const slash: Slash = {
 						)
 						.addField(`Post URL`, `${postUrl}`)
 						.addField(`Video URL`, `${imageUrl}`)
-						.setFooter(interaction.user.tag)
+						.setFooter({ text: interaction.user.tag })
 						.setColor('FUCHSIA')
 						.setTimestamp();
 
@@ -61,7 +61,7 @@ export const slash: Slash = {
 							`Artist : ${artist}\nCharacter : ${character}\nCopyright : ${copyright}\nImage Size : ${resolution}\nExtension : ${extension}`
 						)
 						.setImage(`${imageUrl}`)
-						.setFooter(interaction.user.tag)
+						.setFooter({ text: interaction.user.tag })
 						.setColor('FUCHSIA')
 						.setTimestamp();
 

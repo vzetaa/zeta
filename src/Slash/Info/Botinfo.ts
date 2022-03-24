@@ -18,7 +18,7 @@ export const slash: Slash = {
 					process.env.PREFIX
 				}\`\nCreated at : ${moment(client.user.createdAt).format(
 					'llll'
-				)}\nRepository : https://github.com/gifaldyazkaa/koyorin\nDocumentation : ${homepage}`
+				)}\nRepository : https://github.com/koyorin/koyorin\nDocumentation : ${homepage}`
 			)
 			.addField(
 				'Core Information',

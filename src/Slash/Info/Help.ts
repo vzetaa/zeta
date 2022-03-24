@@ -9,17 +9,17 @@ export const slash: Slash = {
 	options: [],
 	run: async (client, interaction, args) => {
 		const embed = new MessageEmbed()
-			.setTitle('Koyori Help Desk')
+			.setTitle('Koyorin Help Desk')
 			.setImage(`https://cdn.upload.systems/uploads/HPAkGOVy.jpg`)
 			.setDescription(
-				`Hello there! I'm Koyorin here~! Maids and Helpers in this server! 🧪\n\nLooking for Command List? Oh, Here is it!\n\nYou can see Full Command List at\n[gifaldyazka.is-a.dev/koyorin/p/commands](${homepage}/p/commands)!`
+				`I'm こより／Koyorin here~! Maid and Helper in this server! 🧪\n\nPlease refer to Documentation page to using my commands. Thanks!\n${homepage}`
 			)
 			// .setThumbnail(interaction.client.user.displayAvatarURL({ size: 512 }))
 			.setColor('LUMINOUS_VIVID_PINK')
-			.setFooter(
-				`${interaction.user.tag}`,
-				interaction.user.displayAvatarURL({ dynamic: true })
-			)
+			.setFooter({
+				text: interaction.user.tag,
+				iconURL: interaction.user.displayAvatarURL({ dynamic: true }),
+			})
 			.setTimestamp();
 
 		interaction.followUp({ embeds: [embed] });

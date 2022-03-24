@@ -34,7 +34,7 @@ export const slash: Slash = {
 				`[PNG](${png}) | [JPG](${jpg}) | [WEBP](${webp}) | [GIF](${gif})`
 			)
 			.setImage(imgUrl)
-			.setFooter(`${interaction.user.tag}`)
+			.setFooter({ text: interaction.user.tag })
 			.setTimestamp()
 			.setColor(interaction.guild.me.displayHexColor);
 
