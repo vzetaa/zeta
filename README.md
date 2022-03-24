@@ -16,7 +16,7 @@ You can go to [Documentation page](https://koyorin.gq) if you want to read How t
 
 ## 📌 Usage
 
-**This Discord Bot Source Code and It's Feature contains NSFW Features**. If you're under age, I'm not recommending you to clone and try this repository. I have noticed you okay~, **Use it at own risks!**
+**Public NSFW Commands are temporary trashed**. So, you can use this bot and use it freely :D. Feel free to try it in development!
 
 ## ❤️ Credits
 
