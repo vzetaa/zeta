@@ -28,7 +28,7 @@ export const command: Command = {
 						.setColor('#00FF00')
 						.setTitle(`✅ | 200 : Success`)
 						.setDescription(`Results\n\`\`\`yml\n${output}\n\`\`\``)
-						.setFooter(`Actioned by : ${message.author.tag}`),
+						.setFooter({ text: `Actioned by : ${message.author.tag}` }),
 				],
 			});
 		} catch (err) {

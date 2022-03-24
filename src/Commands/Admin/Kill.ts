@@ -27,7 +27,7 @@ export const command: Command = {
 					)
 					.addField('Reasons', `\`${reasons}\``)
 					.setColor('GREEN')
-					.setFooter(`Restarted by ${message.author.username}`)
+					.setFooter({ text: `Restarted by ${message.author.username}` })
 					.setTimestamp(),
 			],
 		});

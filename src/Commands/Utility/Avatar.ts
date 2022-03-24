@@ -27,7 +27,7 @@ export const command: Command = {
 				`[PNG](${png}) | [JPG](${jpg}) | [WEBP](${webp}) | [GIF](${gif})`
 			)
 			.setImage(imgUrl)
-			.setFooter(`${message.author.tag}`)
+			.setFooter({ text: message.author.tag })
 			.setTimestamp()
 			.setColor(message.guild.me.displayHexColor);
 

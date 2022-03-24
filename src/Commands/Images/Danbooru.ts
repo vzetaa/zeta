@@ -41,7 +41,7 @@ export const command: Command = {
 						)
 						.addField(`Post URL`, `${postUrl}`)
 						.addField(`Video URL`, `${imageUrl}`)
-						.setFooter(message.author.tag)
+						.setFooter({ text: message.author.tag })
 						.setColor('LUMINOUS_VIVID_PINK')
 						.setTimestamp();
 
@@ -54,7 +54,7 @@ export const command: Command = {
 							`Artist : ${artist}\nCharacter : ${character}\nCopyright : ${copyright}\nImage Size : ${resolution}\nExtension : ${extension}`
 						)
 						.setImage(`${imageUrl}`)
-						.setFooter(message.author.tag)
+						.setFooter({ text: message.author.tag })
 						.setColor('LUMINOUS_VIVID_PINK')
 						.setTimestamp();
 
