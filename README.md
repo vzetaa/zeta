@@ -10,9 +10,9 @@ Our Beloved Maid and Helper Discord Bot ✨
 
 ## 📄 Documentation
 
-You can go to [Documentation page](https://koyorin.gq/) if you want to read How to use, Installation, Command list, and Contributing Terms. Thanks~!
+You can go to [Documentation page](https://koyorin.gq) if you want to read How to use, Installation, Command list, and Contributing Terms. Thanks~! (It's under construction right now).
 
-> The Documentation powered by [**🐈 GitHub Pages**](https://pages.github.com) and [**✨ Cayman**](https://github.com/pages-themes/cayman) theme.
+> The Documentation powered by [**🦖 Docusaurus**](https://docusaurus.io) and [**🌐 Netlify**](https://netlify.com).
 
 ## 📌 Usage
 
