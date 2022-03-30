@@ -16,7 +16,7 @@ You can go to [Documentation page](https://zetaa.gq) if you want to read How to 
 - [COVER Corp](https://cover-corp.com/)
 - [hololive](https://www.hololive.tv)
 - [holo-ID Gen 3](#)
-- [ベスティア・ゼータ (Vestia Zeta) Herself](https://twitter.com/hakuikoyori)
+- [ベスティア・ゼータ (Vestia Zeta) Herself](https://twitter.com/vestiazeta)
 
 ## ✨ Contributors
 
