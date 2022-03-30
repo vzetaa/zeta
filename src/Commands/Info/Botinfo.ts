@@ -20,7 +20,7 @@ export const command: Command = {
 					process.env.PREFIX
 				}\`\nCreated at : ${moment(client.user.createdAt).format(
 					'llll'
-				)}\nRepository : https://github.com/koyorin/koyorin\nDocumentation : ${homepage}`
+				)}\nRepository : https://github.com/vzetaa/zeta\nDocumentation : ${homepage}`
 			)
 			.addField(
 				'Core Information',
