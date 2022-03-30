@@ -1,16 +1,14 @@
-<a href="https://koyorin.gq/">
-    <img src="https://cdn.upload.systems/uploads/x9kVZhqu.png" alt="Koyorin" style="float: left; margin: 0 10px 0 0; pointer-events: none;" align="left" height="150" width="150">
-</a>
+[![Project Banner](https://cdn.upload.systems/uploads/WjynSr6i.png)](https://zetaa.gq)
 
-## 🧪 Koyorin#5354
+## 📜 Zeta#4100
 
-Our Beloved Maid and Helper Discord Bot ✨
+Our Beloved Helper Discord Bot ✨
 
 [![Deploy workflows](https://img.shields.io/github/workflow/status/gifaldyazkaa/koyorin/%5BHeroku%5D%20Deploy?label=Deploy&logo=github%20actions&style=for-the-badge)](./.github/workflows/Deploy.yml) [![Project Version](https://img.shields.io/github/package-json/v/gifaldyazkaa/koyorin?logo=node.js&style=for-the-badge)](./package.json)
 
 ## 📄 Documentation
 
-You can go to [Documentation page](https://koyorin.gq) if you want to read How to use, Installation, Command list, and Contributing Terms. Thanks~! (It's under construction right now).
+You can go to [Documentation page](https://zetaa.gq) if you want to read How to use, Installation, Command list, and Contributing Terms. (It's under construction right now).
 
 > The Documentation powered by [**🦖 Docusaurus**](https://docusaurus.io) and [**🌐 Netlify**](https://netlify.com).
 
@@ -22,8 +20,8 @@ You can go to [Documentation page](https://koyorin.gq) if you want to read How t
 
 - [COVER Corp](https://cover-corp.com/)
 - [hololive](https://www.hololive.tv)
-- [holoX (Hololive Generation 6)](https://hololive.hololivepro.com/en/special/3268/)
-- [博衣こより (Hakui Koyori) Herself](https://twitter.com/hakuikoyori)
+- [holo-ID Gen 3](#)
+- [ベスティア・ゼータ (Vestia Zeta) Herself](https://twitter.com/hakuikoyori)
 
 ## ✨ Contributors
 
@@ -101,4 +99,4 @@ Here are some wonderful people who contributing to this project
 
 ## 📃 License
 
-[Koyorin](#) is Licensed under [Apache-2.0](./LICENSE) License.
+[Zeta](#) is Licensed under [Apache-2.0](./LICENSE) License.
