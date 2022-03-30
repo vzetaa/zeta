@@ -1,8 +1,10 @@
 {
-	"name": "koyori",
-	"version": "4.0.0",
-	"description": "🧪 Maid and Helper Discord Bot for My Private Discord Server",
-	"homepage": "https://koyorin.gq",
+	"name": "zeta",
+	"version": "1.0.0",
+	"description": "📜 Our Beloved Helper Discord Bot",
+	"homepage": "https://zetaa.gq",
+	"author": "Gifaldy Azka <me@falcxxdev.ml> (https://falcxxdev.ml)",
+	"license": "Apache-2.0",
 	"main": "index.js",
 	"private": true,
 	"scripts": {
@@ -13,8 +15,6 @@
 		"format": "prettier -w .",
 		"check-format": "prettier -c ."
 	},
-	"author": "Gifaldy Azka <@gifaldyazkaa>",
-	"license": "Apache-2.0",
 	"dependencies": {
 		"@types/node": "17.0.8",
 		"cabul": "0.0.15",
@@ -49,9 +49,6 @@
 		"bot",
 		"discord",
 		"discord-js",
-		"nsfw",
-		"hololive",
-		"koyorin",
-		"holo-x"
+		"hololive"
 	]
 }
