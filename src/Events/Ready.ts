@@ -11,9 +11,9 @@ export const event: Event = {
 		client.user.setStatus('idle');
 
 		// Set activity presence
-		client.user.setActivity({
-			name: `with Servers ✨`,
-			type: 'PLAYING',
-		});
+		// client.user.setActivity({
+		// 	name: `with Servers ✨`,
+		// 	type: 'PLAYING',
+		// });
 	},
 };

@@ -34,7 +34,7 @@ export const event: Event = {
 						)
 						.setURL(fixedImg)
 						.setImage(fixedImg)
-						.setColor('FUCHSIA')
+						.setColor('GREY')
 						.setTimestamp();
 					(debugChannel as TextChannel).send({ embeds: [embed] });
 					console.log('Saved one message to database!');

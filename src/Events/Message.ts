@@ -34,10 +34,10 @@ export const event: Event = {
 
 				if (invalidPerms.length) {
 					const embed = new MessageEmbed()
-						.setAuthor(
-							message.author.tag,
-							message.author.displayAvatarURL({ dynamic: true })
-						)
+						.setAuthor({
+							name: client.user.username,
+							iconURL: client.user.displayAvatarURL({ dynamic: true }),
+						})
 						.setDescription(`**MISSING PERMISSIONS**: \`${invalidPerms}\``);
 
 					return message.reply({ embeds: [embed] });
@@ -48,7 +48,10 @@ export const event: Event = {
 				(command as Command).run(client, message, args);
 			} catch (e) {
 				const embed = new MessageEmbed()
-					.setAuthor(client.user.username, client.user.displayAvatarURL())
+					.setAuthor({
+						name: client.user.username,
+						iconURL: client.user.displayAvatarURL({ dynamic: true }),
+					})
 					.setDescription(`**ERROR**: \`${e}\``)
 					.setColor('RED');
 				message.channel.send({ embeds: [embed] }).then((m) =>
