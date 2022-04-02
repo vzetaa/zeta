@@ -14,7 +14,3 @@ include_pull_request_author = true
 include_coauthors = true
 include_pull_request_url = true
 cut_body_after = '---'
-
-[merge.automerge_dependecies]
-versions = ["minor", "patch"]
-usernames = ["dependabot"]
