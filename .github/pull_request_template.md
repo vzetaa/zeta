@@ -4,7 +4,6 @@
 - [ ] Bug fixes
 - [ ] Code update
 - [ ] Code refactor
-- [ ] Documentation
 - [ ] Other
 
 ## Related Issue
