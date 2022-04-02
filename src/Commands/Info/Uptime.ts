@@ -12,7 +12,7 @@ export const command: Command = {
 	run: async (client, message, args) => {
 		const embed = new MessageEmbed()
 			.setDescription(`🕘 Uptime : ${pretty(client.uptime)}`)
-			.setColor('LUMINOUS_VIVID_PINK');
+			.setColor('GREY');
 		message.channel.send({ embeds: [embed] });
 	},
 };

@@ -9,7 +9,7 @@ export const slash: Slash = {
 	run: async (client, interaction, args) => {
 		const embed = new MessageEmbed()
 			.setDescription(`:signal_strength: Ping Latency : ${client.ws.ping}ms!`)
-			.setColor('LUMINOUS_VIVID_PINK');
+			.setColor('GREY');
 		interaction.followUp({ embeds: [embed] });
 	},
 };

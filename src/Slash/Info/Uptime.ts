@@ -10,7 +10,7 @@ export const slash: Slash = {
 	run: async (client, interaction, args) => {
 		const embed = new MessageEmbed()
 			.setDescription(`🕘 Uptime : ${pretty(client.uptime)}`)
-			.setColor('LUMINOUS_VIVID_PINK');
+			.setColor('GREY');
 		interaction.followUp({ embeds: [embed] });
 	},
 };

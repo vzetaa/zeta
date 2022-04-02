@@ -39,7 +39,7 @@ export const command: Command = {
 						.setTitle(`❌ | Evaluated Content too long to displayed`)
 						.setDescription(`Error Logs\n\`\`\`yml\n${err}\n\`\`\``)
 						.setColor('#FF0000')
-						.setFooter(`Actioned by : ${message.author.tag}`),
+						.setFooter({ text: `Actioned by : ${message.author.tag}` }),
 				],
 			});
 		}

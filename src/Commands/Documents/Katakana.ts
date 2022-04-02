@@ -25,7 +25,7 @@ export const command: Command = {
 			.addField(`Kana`, `${data.kana}`, true)
 			.addField(`Romaji`, `${data.romaji}`, true)
 			.addField(`Type`, `${data.type}`, true)
-			.setColor('LUMINOUS_VIVID_PINK')
+			.setColor('GREY')
 			.setTimestamp();
 
 		message.channel.send({ embeds: [embed] });

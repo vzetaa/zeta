@@ -9,13 +9,14 @@ export const slash: Slash = {
 	options: [],
 	run: async (client, interaction, args) => {
 		const embed = new MessageEmbed()
-			.setTitle('Koyorin Help Desk')
-			.setImage(`https://cdn.upload.systems/uploads/HPAkGOVy.jpg`)
+			.setTitle('Zeta Help Desk')
+			.setURL('https://zetaa.gq')
+			// .setImage(`https://cdn.upload.systems/uploads/HPAkGOVy.jpg`)
 			.setDescription(
-				`I'm こより／Koyorin here~! Maid and Helper in this server! 🧪\n\nPlease refer to Documentation page to using my commands. Thanks!\n${homepage}`
+				`I'm ゼータ／Zeta here~! Helper at Falcxxdev's Private server! 📜\n\nPlease refer to Documentation page to using my commands.\n${homepage}`
 			)
 			// .setThumbnail(interaction.client.user.displayAvatarURL({ size: 512 }))
-			.setColor('LUMINOUS_VIVID_PINK')
+			.setColor('GREY')
 			.setFooter({
 				text: interaction.user.tag,
 				iconURL: interaction.user.displayAvatarURL({ dynamic: true }),

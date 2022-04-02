@@ -26,7 +26,7 @@ export const command: Command = {
 				'Core Information',
 				`Project-type : Node.js Application\nProject version : v${module.version}\nDiscord.js version : v${module.dependencies['discord.js']}\nMongoose version : v${module.dependencies.mongoose}\nTypeScript version : v${module.dependencies.typescript}`
 			)
-			.setColor('LUMINOUS_VIVID_PINK')
+			.setColor('GREY')
 			.setTimestamp();
 
 		message.channel.send({ embeds: [embed] });

@@ -29,7 +29,7 @@ export const command: Command = {
 				}).save();
 			}
 			if (err) return console.log(err);
-			message.channel.send(`Sucess!`);
+			message.channel.send(`Success!`);
 		});
 	},
 };

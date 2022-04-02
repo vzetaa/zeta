@@ -27,7 +27,7 @@ export const command: Command = {
 						.setTitle('Terminal - GNU Bash')
 						.setDescription(`\`\`\`js\n${stdout.slice(0, 2000)}\`\`\``)
 						.setFooter({ text: `GNU Bash - Actioned by ${message.author.tag}` })
-						.setColor('LUMINOUS_VIVID_PINK'),
+						.setColor('GREY'),
 				],
 			});
 		});
