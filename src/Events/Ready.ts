@@ -12,8 +12,8 @@ export const event: Event = {
 
 		// Set activity presence
 		client.user.setActivity({
-			name: `in development branch`,
 			type: 'COMPETING',
+			name: `development branch`,
 		});
 	},
 };
