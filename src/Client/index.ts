@@ -30,10 +30,10 @@ class Bot extends Client {
 				connectTimeoutMS: 3000,
 			});
 		} else {
-			this.console.info(`You don't have mongoURI`);
+			this.console.info(`You don't have MongoURI!`);
 		}
 		if (!this.config.TESTSERVER)
-			this.console.info(`You haven't set the server id`);
+			this.console.info(`You have not set the Server ID!`);
 		// Commands
 		const commandPath = path.join(__dirname, '..', 'Commands');
 		readdirSync(commandPath).forEach((dir) => {
