@@ -7,13 +7,13 @@ export const event: Event = {
 		client.console.success(
 			`${chalk.bold.green(`[CLIENT]`)} ${client.user.tag} Ready`
 		);
-		// Set status to Idle
-		client.user.setStatus('idle');
+		// Set status to Online
+		client.user.setStatus('online');
 
 		// Set activity presence
-		// client.user.setActivity({
-		// 	name: `with Servers ✨`,
-		// 	type: 'PLAYING',
-		// });
+		client.user.setActivity({
+			name: `in development branch`,
+			type: 'COMPETING',
+		});
 	},
 };
