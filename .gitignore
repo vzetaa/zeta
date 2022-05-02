@@ -120,12 +120,8 @@ dist
 # Editor things
 .vscode/
 
-# Build Output
+# TypeScript Build output
 dist/
-
-# Jekyll compile result
-_site/
-docs/_site/
 
 # Yarn v3
 .yarnrc
