@@ -6,7 +6,7 @@ export const command: Command = {
 	description: 'Manually initialize process',
 	aliases: ['initialize', 'setup'],
 	usage: '',
-	testOnly: true,
+	testOnly: false,
 	permissions: ['SEND_MESSAGES'],
 	run: async (client, message, args) => {
 		if (message.author.id !== process.env.OWNERID) return;

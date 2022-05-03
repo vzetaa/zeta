@@ -6,7 +6,7 @@ export const command: Command = {
 	description: 'Shows client latency ping',
 	aliases: ['p'],
 	usage: 'ping',
-	testOnly: true,
+	testOnly: false,
 	permissions: ['SEND_MESSAGES'],
 	run: async (client, message, args) => {
 		const embed = new MessageEmbed()
