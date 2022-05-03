@@ -3,10 +3,10 @@ import Lewd from '../../Exports/LewImg';
 
 export const command: Command = {
 	name: 'trap',
-	description: 'Random Trap NSFW!',
+	description: 'Random lewd trap image',
 	aliases: ['ntrap'],
 	usage: '',
-	testOnly: true,
+	testOnly: false,
 	permissions: ['SEND_MESSAGES'],
 	run: async (client, message, args) => {
 		if (message.channel.type === 'GUILD_TEXT' && !message.channel.nsfw)

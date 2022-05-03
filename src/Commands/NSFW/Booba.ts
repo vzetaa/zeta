@@ -3,10 +3,10 @@ import Lewd from '../../Exports/LewImg';
 
 export const command: Command = {
 	name: 'boobs',
-	description: 'Random Booba NSFW!',
+	description: 'Random lewd boobs image',
 	aliases: ['boob', 'booba', 'breast'],
 	usage: '',
-	testOnly: true,
+	testOnly: false,
 	permissions: ['SEND_MESSAGES'],
 	run: async (client, message, args) => {
 		if (message.channel.type === 'GUILD_TEXT' && !message.channel.nsfw)
