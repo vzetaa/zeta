@@ -9,7 +9,7 @@ You can go to [Documentation page](https://zetaa.gq) if you want to read How to 
 
 ## 📌 Usage
 
-**Public NSFW Commands are temporary trashed**. So, you can use this bot and use it freely :D. Feel free to try it in development!
+**NSFW Features are back**. So, **use it at your own risk**. I am not responsible for any mistakes you made.
 
 ## ❤️ Credits
 
