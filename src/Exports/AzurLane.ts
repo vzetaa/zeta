@@ -27,7 +27,6 @@ const listRandomShip = async () => {
 };
 
 // Search Equipments
-
 const searchEquipments = async (name: string) => {
 	const req = await fetch(
 		`https://formidable.kashima.moe/equipments/search?name=${encodeURI(name)}`
@@ -38,7 +37,6 @@ const searchEquipments = async (name: string) => {
 };
 
 // Search Voice Lines
-
 const searchVoiceLines = async (id: string) => {
 	const req = await fetch(
 		`https://formidable.kashima.moe/voicelines/ship?id=${encodeURI(id)}`
