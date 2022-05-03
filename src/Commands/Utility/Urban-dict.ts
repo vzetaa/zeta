@@ -13,7 +13,7 @@ export const command: Command = {
 		const trim = (input) => {
 			return input.length > 1024 ? `${input.slice(0, 1020)} ...` : input;
 		};
-		const word: String = encodeURIComponent(args.join(' '));
+		const word: string = encodeURIComponent(args.join(' '));
 		if (!word) return message.reply('Please specify a word to search to!');
 		const res: Response = await fetch(
 			`https://api.urbandictionary.com/v0/define?term=${word}`

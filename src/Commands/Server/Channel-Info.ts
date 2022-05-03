@@ -18,7 +18,7 @@ export const command: Command = {
 		};
 		let channel: TextBasedChannel = message.mentions.channels.first();
 		if (!channel) return message.reply('Please mention a channel.');
-		let channelType: String = channel.type;
+		let channelType: string = channel.type;
 		if (channelType === 'GUILD_NEWS') {
 			channelType = 'News Channel';
 		}

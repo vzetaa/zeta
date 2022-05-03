@@ -12,7 +12,7 @@ export const command: Command = {
 	permissions: ['SEND_MESSAGES'],
 	run: async (client, message, args) => {
 		const color: ColorResolvable = message.guild.me.displayHexColor;
-		const user: String = args.join(' ');
+		const user: string = args.join(' ');
 		if (!user) return message.reply('Please specify a username to search!');
 		const req: Response = await fetch(
 			`https://luminabot.xyz/api/json/github?username=${user}`
