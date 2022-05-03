@@ -3,7 +3,7 @@
 
 ## 📄 Documentation
 
-You can go to [Documentation page](https://zetaa.gq) if you want to read How to use, Installation, Command list, and Contributing Terms. (It's under construction right now).
+Please refer to [Documentation page](https://zetaa.gq) if you want to read How to use, Installation, Command list, and Contributing Terms. (It's under construction right now).
 
 > The Documentation powered by [**🦖 Docusaurus**](https://docusaurus.io) and [**🌐 Netlify**](https://netlify.com).
 
