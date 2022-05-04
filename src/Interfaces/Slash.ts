@@ -1,9 +1,5 @@
+import { CommandInteraction, ApplicationCommandData } from 'discord.js';
 import Client from '../Client';
-import {
-	CommandInteraction,
-	ApplicationCommandOption,
-	ApplicationCommandData,
-} from 'discord.js';
 
 interface Run {
 	(client: Client, interaction: CommandInteraction, args: string[]);
