@@ -1,2 +1,4 @@
 import Client from './Client';
-new Client().init();
+
+const client: Client = new Client();
+client.init();
