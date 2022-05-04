@@ -4,7 +4,6 @@ import { readdirSync } from 'fs';
 import mongoose from 'mongoose';
 import consola from 'consola';
 import dotenv from 'dotenv';
-import chalk from 'chalk';
 import path from 'path';
 dotenv.config();
 
