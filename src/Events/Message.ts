@@ -38,7 +38,10 @@ export const event: Event = {
 							name: client.user.username,
 							iconURL: client.user.displayAvatarURL({ dynamic: true }),
 						})
-						.setDescription(`**MISSING PERMISSIONS**: \`${invalidPerms}\``);
+						.setDescription(
+							`**Missing Permissions** : \`${invalidPerms}\`.\n\nThis means, you need \`${invalidPerms}\` permission to run this command. Or if you already have, please check my permissions in this server.`
+						)
+						.setColor(message.guild.me.displayHexColor);
 
 					return message.reply({ embeds: [embed] });
 				}
