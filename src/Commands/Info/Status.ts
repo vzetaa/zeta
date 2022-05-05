@@ -11,7 +11,7 @@ export const command: Command = {
 	testOnly: false,
 	permissions: ['SEND_MESSAGES'],
 	run: async (client, message, args) => {
-		const capitalize = (str: String) => {
+		const capitalize = (str: string) => {
 			return str.charAt(0).toUpperCase() + str.slice(1);
 		};
 		const core: CpuInfo = cpus()[0];
