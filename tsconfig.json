@@ -1,6 +1,7 @@
 {
 	"compilerOptions": {
 		"lib": ["ESNext", "ES2017"],
+		"types": ["node"],
 		"module": "commonjs",
 		"moduleResolution": "node",
 		"target": "ESNext",
@@ -12,8 +13,7 @@
 		"allowSyntheticDefaultImports": true,
 		"skipLibCheck": true,
 		"skipDefaultLibCheck": true,
-		"resolveJsonModule": true,
-		"types": ["node"]
+		"resolveJsonModule": true
 	},
 	"include": ["src"],
 	"exclude": ["node_modules", "**/*.spec.ts"]
