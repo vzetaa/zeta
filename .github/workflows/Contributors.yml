@@ -1,3 +1,5 @@
+name: '[List] Contributors'
+
 on:
   push:
     branches:
@@ -6,7 +8,7 @@ on:
 jobs:
   contrib-readme-job:
     runs-on: ubuntu-latest
-    name: '[List] Contributors'
+    name: 'List'
     steps:
       - name: Contribute List
         uses: akhilmhdh/contributors-readme-action@v2.3.4
