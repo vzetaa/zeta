@@ -1,7 +1,8 @@
-import module, { homepage } from '../../../package.json';
-import { MessageEmbed } from 'discord.js';
+import { ColorResolvable, MessageEmbed, version } from 'discord.js';
 import { Slash } from '../../Interfaces';
-import moment from 'moment';
+import { utc } from 'moment';
+import project from '../../../package.json';
+import pretty from 'pretty-ms';
 
 export const slash: Slash = {
 	name: 'botinfo',
@@ -9,22 +10,28 @@ export const slash: Slash = {
 	testOnly: false,
 	options: [],
 	run: async (client, interaction, args) => {
-		const embed = new MessageEmbed()
-			.setTitle('Bot Information')
+		const color: ColorResolvable = interaction.guild.me.displayHexColor;
+		const embed: MessageEmbed = new MessageEmbed()
+			.setTitle(`:robot: ${client.user.username} Information`)
 			.setThumbnail(interaction.client.user.displayAvatarURL({ size: 512 }))
-			.addField(
-				'General Information',
-				`Name : ${client.user.username}\nMain Prefix : \`${
-					process.env.PREFIX
-				}\`\nCreated at : ${moment(client.user.createdAt).format(
-					'llll'
-				)}\nRepository : https://github.com/vzetaa/zeta\nDocumentation : ${homepage}`
+			.setDescription(
+				`**❯ Client :** ${client.user.tag} (${
+					client.user.id
+				})\n**❯ Commands Total :** ${
+					client.commands.size
+				}\n**❯ Server :** ${client.guilds.cache.size.toLocaleString()} Servers\n**❯ Users :** ${client.guilds.cache
+					.reduce((a, b) => a + b.memberCount, 0)
+					.toLocaleString()} Users\n**❯ Channels :** ${client.channels.cache.size.toLocaleString()} Channels\n**❯ Creation Date :** ${utc(
+					client.user.createdTimestamp
+				).format('Do MMMM YYYY HH:mm:ss')}\n**❯ Node.js :** ${
+					process.version
+				}\n**❯ Project Version :** v${
+					project.version
+				}\n**❯ Discord.js :** v${version}\n**❯ Bot Uptime :** ${pretty(
+					client.uptime
+				)}`
 			)
-			.addField(
-				'Core Information',
-				`Project-type : Node.js Application\nProject version : v${module.version}\nDiscord.js version : v${module.dependencies['discord.js']}\nMongoose version : v${module.dependencies.mongoose}\nTypeScript version : v${module.dependencies.typescript}`
-			)
-			.setColor('GREY')
+			.setColor(color)
 			.setTimestamp();
 
 		interaction.followUp({ embeds: [embed] });
