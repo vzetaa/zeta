@@ -1,15 +1,15 @@
-import { Interaction } from 'discord.js';
-import { Event } from '../Interfaces';
+import { CacheType, CommandInteractionOption, Interaction } from 'discord.js';
+import { Event, Slash } from '../Interfaces';
 
 export const event: Event = {
 	name: 'interactionCreate',
 	run: async (client, interaction: Interaction) => {
 		if (interaction.isCommand()) {
 			await interaction.deferReply({ ephemeral: false }).catch(() => {});
-			const cmd = client.slash.get(interaction.commandName);
+			const cmd: Slash = client.slash.get(interaction.commandName);
 			if (!cmd)
 				return interaction.followUp({ content: `An error has occured` });
-			const args = [];
+			const args: any[] = [];
 
 			for (let option of interaction.options.data) {
 				if (option.type === 'SUB_COMMAND_GROUP') {
@@ -24,7 +24,7 @@ export const event: Event = {
 				} else if (option.type === 'SUB_COMMAND') {
 					if (option.name) args.push(option.name);
 
-					option.options?.forEach((x) => {
+					option.options?.forEach((x: CommandInteractionOption<CacheType>) => {
 						if (x.value) args.push(x.value);
 					});
 				} else if (option.value) args.push(option.value);
