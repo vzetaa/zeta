@@ -1,6 +1,4 @@
-const mongoose: any = require('mongoose');
+import mongoose, { Schema } from 'mongoose';
 
-export default mongoose.model('Picture', {
-	Url: String,
-	Channel: String,
-});
+const schema: Schema = new mongoose.Schema({ Url: String, Channel: String });
+export default mongoose.model('Picture', schema);
