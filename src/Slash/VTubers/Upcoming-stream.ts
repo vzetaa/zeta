@@ -4,7 +4,7 @@ import holoClient from '../../Exports/Holodex';
 
 export const slash: Slash = {
 	name: 'vtuber-next-stream',
-	description: '',
+	description: 'Get upcoming live stream of vtubers',
 	testOnly: false,
 	options: [
 		{

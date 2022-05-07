@@ -8,7 +8,7 @@ const capitalize = (str: string) => {
 };
 
 export const slash: Slash = {
-	name: 'vtuber-upload-CpuInfo',
+	name: 'vtuber-upload-info',
 	description: 'Get video or live uploads metadata by video id',
 	testOnly: false,
 	options: [
