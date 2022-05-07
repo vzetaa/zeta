@@ -5,7 +5,7 @@ import moment from 'moment';
 
 export const command: Command = {
 	name: 'github',
-	description: 'Search an GitHub user',
+	description: 'Search for GitHub user by username',
 	aliases: ['gh'],
 	usage: '<Username>',
 	testOnly: false,

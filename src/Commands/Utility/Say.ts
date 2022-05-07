@@ -2,7 +2,7 @@ import { Command } from '../../Interfaces';
 
 export const command: Command = {
 	name: 'say',
-	description: 'Shows client latency ping',
+	description: 'Say a text',
 	aliases: ['echo'],
 	usage: '',
 	testOnly: false,
