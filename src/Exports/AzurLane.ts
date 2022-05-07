@@ -1,8 +1,8 @@
-import fetch from 'node-fetch';
+import fetch, { Response } from 'node-fetch';
 
 // Search & List Ships
 const searchShip = async (name: string) => {
-	const req = await fetch(
+	const req: Response = await fetch(
 		`https://formidable.kashima.moe/ships/search?name=${encodeURI(name)}`
 	);
 	const body = await req.json();
@@ -11,7 +11,7 @@ const searchShip = async (name: string) => {
 };
 
 const searchShipById = async (id: string) => {
-	const req = await fetch(
+	const req: Response = await fetch(
 		`https://formidable.kashima.moe/ships/id?code=${encodeURI(id)}`
 	);
 	const body = await req.json();
@@ -20,7 +20,9 @@ const searchShipById = async (id: string) => {
 };
 
 const listRandomShip = async () => {
-	const req = await fetch(`https://formidable.kashima.moe/ships/random`);
+	const req: Response = await fetch(
+		`https://formidable.kashima.moe/ships/random`
+	);
 	const body = await req.json();
 
 	return body;
@@ -28,7 +30,7 @@ const listRandomShip = async () => {
 
 // Search Equipments
 const searchEquipments = async (name: string) => {
-	const req = await fetch(
+	const req: Response = await fetch(
 		`https://formidable.kashima.moe/equipments/search?name=${encodeURI(name)}`
 	);
 	const body = await req.json();
@@ -38,7 +40,7 @@ const searchEquipments = async (name: string) => {
 
 // Search Voice Lines
 const searchVoiceLines = async (id: string) => {
-	const req = await fetch(
+	const req: Response = await fetch(
 		`https://formidable.kashima.moe/voicelines/ship?id=${encodeURI(id)}`
 	);
 	const body = await req.json();
