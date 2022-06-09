@@ -1,4 +1,4 @@
-import { ColorResolvable, MessageEmbed, TextBasedChannel } from 'discord.js';
+import { ColorResolvable, MessageEmbed, AnyChannel } from 'discord.js';
 import { Command } from '../../Interfaces';
 
 export const command: Command = {
@@ -16,7 +16,7 @@ export const command: Command = {
 			let days = Math.floor(diff / 86400000);
 			return days + (days == 1 ? ' day' : ' days') + ' ago';
 		};
-		let channel: TextBasedChannel = message.mentions.channels.first();
+		let channel: AnyChannel = message.mentions.channels.first();
 		if (!channel) return message.reply('Please mention a channel.');
 		let channelType: string = channel.type;
 		if (channelType === 'GUILD_NEWS') {
