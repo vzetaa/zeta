@@ -15,8 +15,8 @@ Please refer to [Documentation page](https://zetaa.gq) if you want to read How t
 
 - [COVER Corp](https://cover-corp.com/)
 - [hololive](https://www.hololive.tv)
-- [holo-ID Gen 3](#)
-- [ベスティア・ゼータ (Vestia Zeta) Herself](https://twitter.com/vestiazeta)
+- [holoID Gen 3](#)
+- [ベスティア・ゼータ (Vestia Zeta) herself](https://twitter.com/vestiazeta)
 
 ## ✨ Contributors
 
