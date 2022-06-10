@@ -1,9 +1,9 @@
 {
 	"name": "zeta",
-	"version": "1.0.0",
+	"version": "1.2.0",
 	"description": "📜 Our Beloved Helper Discord Bot",
 	"homepage": "https://zetaa.gq",
-	"author": "Gifaldy Azka <me@falcxxdev.ml> (https://falcxxdev.ml)",
+	"author": "Gifaldy Azka <me@falcxxdev.ml>",
 	"license": "Apache-2.0",
 	"main": "index.js",
 	"private": true,
