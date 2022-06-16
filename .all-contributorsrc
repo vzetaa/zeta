@@ -26,6 +26,16 @@
         "code",
         "review"
       ]
+    },
+    {
+      "login": "jstcl",
+      "name": "Josh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91227737?v=4",
+      "profile": "https://github.com/jstcl",
+      "contributions": [
+        "code",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
