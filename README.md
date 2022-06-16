@@ -33,6 +33,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://falcxxdev.ml"><img src="https://avatars.githubusercontent.com/u/68645946?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gifaldy Azka</b></sub></a><br /><a href="https://github.com/vzetaa/zeta/commits?author=gifaldyazkaa" title="Code">💻</a> <a href="#ideas-gifaldyazkaa" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/vzetaa/zeta/pulls?q=is%3Apr+reviewed-by%3Agifaldyazkaa" title="Reviewed Pull Requests">👀</a> <a href="#maintenance-gifaldyazkaa" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://falcxxdev.ml"><img src="https://avatars.githubusercontent.com/u/37253794?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Falcxxdev</b></sub></a><br /><a href="https://github.com/vzetaa/zeta/commits?author=Gifaldyazka" title="Code">💻</a> <a href="https://github.com/vzetaa/zeta/pulls?q=is%3Apr+reviewed-by%3AGifaldyazka" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/jstcl"><img src="https://avatars.githubusercontent.com/u/91227737?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Josh</b></sub></a><br /><a href="https://github.com/vzetaa/zeta/commits?author=jstcl" title="Code">💻</a> <a href="https://github.com/vzetaa/zeta/pulls?q=is%3Apr+reviewed-by%3Ajstcl" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
