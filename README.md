@@ -1,7 +1,11 @@
 [![Project Banner](https://cdn.upload.systems/uploads/WjynSr6i.png)](https://zetaa.gq)
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 [![Deploy workflows](https://img.shields.io/github/workflow/status/gifaldyazkaa/koyorin/%5BHeroku%5D%20Deploy?label=Deploy&logo=github%20actions&style=for-the-badge)](./.github/workflows/Deploy.yml) [![Project Version](https://img.shields.io/github/package-json/v/gifaldyazkaa/koyorin?logo=node.js&style=for-the-badge)](./package.json)
 
 ## 📄 Documentation
