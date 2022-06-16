@@ -1,5 +1,5 @@
 {
-    "extends": ["config:base"],
+    "extends": ["config:base", ":preserveSemverRanges"],
     "baseBranches": ["master"],
     "labels": ["📦 Dependencies"],
     "branchPrefix": "deps/",
