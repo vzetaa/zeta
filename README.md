@@ -36,6 +36,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/jstcl"><img src="https://avatars.githubusercontent.com/u/91227737?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Josh</b></sub></a><br /><a href="https://github.com/vzetaa/zeta/commits?author=jstcl" title="Code">💻</a> <a href="https://github.com/vzetaa/zeta/pulls?q=is%3Apr+reviewed-by%3Ajstcl" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://renovate.whitesourcesoftware.com"><img src="https://avatars.githubusercontent.com/u/25180681?v=4?s=100" width="100px;" alt=""/><br /><sub><b>WhiteSource Renovate</b></sub></a><br /><a href="#security-renovate-bot" title="Security">🛡️</a> <a href="#tool-renovate-bot" title="Tools">🔧</a></td>
     <td align="center"><a href="https://github.com/features/security"><img src="https://avatars.githubusercontent.com/u/27347476?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dependabot</b></sub></a><br /><a href="#security-dependabot" title="Security">🛡️</a> <a href="#tool-dependabot" title="Tools">🔧</a></td>
+    <td align="center"><a href="https://imgbot.net"><img src="https://avatars.githubusercontent.com/u/31427850?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Imgbot</b></sub></a><br /><a href="#design-ImgBotApp" title="Design">🎨</a> <a href="#content-ImgBotApp" title="Content">🖋</a></td>
   </tr>
 </table>
 
