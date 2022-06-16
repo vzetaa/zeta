@@ -13,10 +13,10 @@ Please refer to [Documentation page](https://zetaa.gq) if you want to read How t
 
 ## ❤️ Credits
 
-- [COVER Corp](https://cover-corp.com/)
-- [hololive](https://www.hololive.tv)
-- [holoID Gen 3](#)
-- [ベスティア・ゼータ (Vestia Zeta) herself](https://twitter.com/vestiazeta)
+-   [COVER Corp](https://cover-corp.com/)
+-   [hololive](https://www.hololive.tv)
+-   [holoID Gen 3](#)
+-   [ベスティア・ゼータ (Vestia Zeta) herself](https://twitter.com/vestiazeta)
 
 ## ✨ Contributors
 

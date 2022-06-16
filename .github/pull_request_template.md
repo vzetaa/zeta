@@ -1,9 +1,9 @@
 ## Pull request type
 
-- [ ] Feature addition
-- [ ] Bug fixes
-- [ ] Code refactor
-- [ ] Other
+-   [ ] Feature addition
+-   [ ] Bug fixes
+-   [ ] Code refactor
+-   [ ] Other
 
 ## Description
 
@@ -11,10 +11,10 @@
 
 ## Environments used
 
-- OS : macOS Big Sur 11.6.6 20G624 x86_64
-- Node : v16.x.x
-- Yarn : v1.x.x
-- Code Editor : vim
+-   OS : macOS Big Sur 11.6.6 20G624 x86_64
+-   Node : v16.x.x
+-   Yarn : v1.x.x
+-   Code Editor : vim
 
 ## Related issue
 
