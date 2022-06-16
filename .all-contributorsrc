@@ -1,27 +1,78 @@
 {
-    "files": [
-        "README.md"
-    ],
-    "imageSize": 100,
-    "commit": false,
-    "contributors": [
-        {
-            "login": "gifaldyazkaa",
-            "name": "Gifaldy Azka",
-            "avatar_url": "https://avatars.githubusercontent.com/u/68645946?v=4",
-            "profile": "https://falcxxdev.ml",
-            "contributions": [
-                "code",
-                "ideas",
-                "review"
-            ]
-        }
-    ],
-    "contributorsPerLine": 7,
-    "projectName": "zeta",
-    "projectOwner": "vzetaa",
-    "repoType": "github",
-    "repoHost": "https://github.com",
-    "skipCi": true,
-    "badgeTemplate": ""
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "gifaldyazkaa",
+      "name": "Gifaldy Azka",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68645946?v=4",
+      "profile": "https://falcxxdev.ml",
+      "contributions": [
+        "code",
+        "ideas",
+        "review",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "Gifaldyazka",
+      "name": "Falcxxdev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37253794?v=4",
+      "profile": "https://falcxxdev.ml",
+      "contributions": [
+        "code",
+        "review"
+      ]
+    },
+    {
+      "login": "jstcl",
+      "name": "Josh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91227737?v=4",
+      "profile": "https://github.com/jstcl",
+      "contributions": [
+        "code",
+        "review"
+      ]
+    },
+    {
+      "login": "renovate-bot",
+      "name": "WhiteSource Renovate",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25180681?v=4",
+      "profile": "https://renovate.whitesourcesoftware.com",
+      "contributions": [
+        "security",
+        "tool"
+      ]
+    },
+    {
+      "login": "dependabot",
+      "name": "Dependabot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/27347476?v=4",
+      "profile": "https://github.com/features/security",
+      "contributions": [
+        "security",
+        "tool"
+      ]
+    },
+    {
+      "login": "ImgBotApp",
+      "name": "Imgbot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31427850?v=4",
+      "profile": "https://imgbot.net",
+      "contributions": [
+        "design",
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "zeta",
+  "projectOwner": "vzetaa",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "badgeTemplate": ""
 }
