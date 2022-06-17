@@ -4,6 +4,7 @@ import { readdirSync } from 'fs';
 import mongoose from 'mongoose';
 import consola from 'consola';
 import dotenv from 'dotenv';
+import chalk from 'chalk';
 import path from 'path';
 dotenv.config();
 
@@ -24,10 +25,14 @@ class Bot extends Client {
     public async init() {
         this.login(this.config.TOKEN);
         if (this.config.MONGOURI) {
-            mongoose.connect(this.config.MONGOURI, {
-                autoIndex: true,
-                connectTimeoutMS: 3000,
-            });
+            mongoose
+                .connect(this.config.MONGOURI, {
+                    autoIndex: true,
+                    connectTimeoutMS: 3000,
+                })
+                .then(() => {
+                    this.console.success(`${chalk.bold.green(`[MONGOOSE]`)} Connected to database`);
+                });
         } else {
             this.console.info(`You don't have MongoURI!`);
         }
