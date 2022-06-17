@@ -14,7 +14,7 @@ export const command: Command = {
             return message.reply({
                 content: `Please enter a number of message to clear!`,
             });
-        if (amount <= 2 || amount > 100)
+        if (amount < 2 || amount > 100)
             return message.reply({
                 content: `Please enter a number of message between 2 and 100`,
             });
@@ -26,7 +26,7 @@ export const command: Command = {
                         .setColor('#00ffff')
                         .setDescription(`:white_check_mark:  Cleared **${m.size}**/**${amount}** messages!`);
 
-                    message.channel.send({ embeds: [embed] }).then(msg => msg.delete());
+                    message.channel.send({ embeds: [embed] }).then(msg => setTimeout(() => msg.delete(), 4000));
                 });
         } catch (e) {
             console.log(e);
