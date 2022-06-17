@@ -11,9 +11,8 @@
         "start": "ts-node --transpile-only ./src/index.ts",
         "dev": "ts-node-dev --respawn --clear --rs --transpile-only --poll ./src/index.ts",
         "build": "tsc",
-        "lint": "eslint .",
-        "format": "prettier -w .",
-        "check-format": "prettier -c ."
+        "lint": "prettier -c . && eslint .",
+        "format": "prettier -w ."
     },
     "dependencies": {
         "@types/node": "17.0.8",
