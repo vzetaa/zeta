@@ -1,8 +1,0 @@
-# Module
-node_modules/
-
-# Editor settings
-.vscode/settings.json
-
-# Build output
-dist
