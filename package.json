@@ -21,7 +21,7 @@
         "discord.js": "13.8.1",
         "dotenv": "16.0.1",
         "glob": "8.0.3",
-        "holodex.js": "1.1.0",
+        "holodex.js": "2.0.5",
         "moment": "2.29.3",
         "mongoose": "6.4.2",
         "ms": "2.1.3",
