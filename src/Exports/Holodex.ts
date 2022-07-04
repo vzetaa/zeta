@@ -1,6 +1,6 @@
 import { HolodexApiClient } from 'holodex.js';
 
-const holoClient = new HolodexApiClient({
+const holoClient: HolodexApiClient = new HolodexApiClient({
     apiKey: process.env.HOLODEX_APIKEY,
 });
 
