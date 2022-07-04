@@ -1,11 +1,8 @@
 {
     "name": "zeta",
     "version": "1.2.0",
-    "description": "📜 Our Beloved Helper Discord Bot",
+    "description": "📜 Helper Discord Bot for My Private Discord Server",
     "homepage": "https://zetaa.gq",
-    "author": "Gifaldy Azka <me@falcxxdev.ml>",
-    "license": "Apache-2.0",
-    "main": "index.js",
     "private": true,
     "scripts": {
         "start": "ts-node --transpile-only ./src/index.ts",
@@ -14,6 +11,8 @@
         "lint": "prettier -c . && eslint .",
         "format": "prettier -w ."
     },
+    "author": "Gifaldy Azka <me@falcxxdev.ml>",
+    "license": "Apache-2.0",
     "dependencies": {
         "@types/node": "17.0.8",
         "chalk": "4.1.2",
