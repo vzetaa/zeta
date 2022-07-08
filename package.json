@@ -41,10 +41,5 @@
     "engines": {
         "node": "16.x",
         "yarn": "1.x"
-    },
-    "keywords": [
-        "bot",
-        "discord",
-        "hololive"
-    ]
+    }
 }
