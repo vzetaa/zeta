@@ -26,12 +26,6 @@ coverage
 # nyc test coverage
 .nyc_output
 
-# node-waf configuration
-.lock-wscript
-
-# Compiled binary addons (https://nodejs.org/api/addons.html)
-build/Release
-
 # Dependency directories
 node_modules/
 jspm_packages/
@@ -65,25 +59,6 @@ jspm_packages/
 .env.test
 .env.production
 
-# parcel-bundler cache (https://parceljs.org/)
-.cache
-.parcel-cache
-
-# Gatsby files
-.cache/
-# Comment in the public line in if your project uses Gatsby and not Next.js
-# https://nextjs.org/blog/next-9-1#public-directory-support
-# public
-
-# vuepress build output
-.vuepress/dist
-
-# Serverless directories
-.serverless/
-
-# DynamoDB Local files
-.dynamodb/
-
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
 
@@ -97,7 +72,7 @@ jspm_packages/
 # Editor things
 .vscode/
 
-# TypeScript Build output
+# Build
 dist/
 
 # Yarn v3
