@@ -9,7 +9,8 @@
         "dev": "ts-node-dev --respawn --clear --rs --transpile-only --poll ./src/index.ts",
         "build": "tsc",
         "lint": "prettier -c . && eslint .",
-        "format": "prettier -w ."
+        "format": "prettier -w .",
+        "prepare": "husky install"
     },
     "author": "Gifaldy Azka <me@falcxxdev.ml>",
     "license": "Apache-2.0",
@@ -36,7 +37,8 @@
         "@typescript-eslint/eslint-plugin": "5.35.1",
         "@typescript-eslint/parser": "5.35.1",
         "eslint": "8.23.0",
-        "prettier": "2.7.1"
+        "prettier": "2.7.1",
+        "husky": "^8.0.0"
     },
     "engines": {
         "node": "16.x",
