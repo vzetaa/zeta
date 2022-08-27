@@ -1,6 +1,6 @@
 {
     "name": "zeta",
-    "version": "1.2.0",
+    "version": "1.2.4",
     "description": "📜 Helper Discord Bot for My Private Discord Server",
     "homepage": "https://zetaa.gq",
     "private": true,
@@ -38,7 +38,6 @@
         "@typescript-eslint/eslint-plugin": "5.35.1",
         "@typescript-eslint/parser": "5.35.1",
         "eslint": "8.23.0",
-        "prettier": "2.7.1",
         "prettier": "2.7.1"
     },
     "engines": {
