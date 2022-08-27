@@ -12,7 +12,7 @@ specifiers:
   eslint: 8.23.0
   glob: 8.0.3
   holodex.js: 1.1.0
-  husky: ^8.0.0
+  husky: 8.0.1
   moment: 2.29.4
   mongoose: 6.5.3
   ms: 2.1.3
