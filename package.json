@@ -22,7 +22,7 @@
         "discord.js": "13.11.0",
         "dotenv": "16.0.2",
         "glob": "8.0.3",
-        "holodex.js": "1.1.0",
+        "holodex.js": "2.0.5",
         "husky": "8.0.1",
         "moment": "2.29.4",
         "mongoose": "6.6.1",
