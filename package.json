@@ -19,7 +19,7 @@
         "chalk": "4.1.2",
         "consola": "2.15.3",
         "danbooru": "3.1.0",
-        "discord.js": "13.11.0",
+        "discord.js": "13.12.0",
         "dotenv": "16.0.3",
         "glob": "8.0.3",
         "holodex.js": "1.1.0",
@@ -35,9 +35,9 @@
         "typescript": "4.8.4"
     },
     "devDependencies": {
-        "@typescript-eslint/eslint-plugin": "5.39.0",
-        "@typescript-eslint/parser": "5.39.0",
-        "eslint": "8.24.0",
+        "@typescript-eslint/eslint-plugin": "5.40.0",
+        "@typescript-eslint/parser": "5.40.0",
+        "eslint": "8.25.0",
         "prettier": "2.7.1"
     },
     "engines": {
