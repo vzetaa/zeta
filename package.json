@@ -19,7 +19,7 @@
         "chalk": "4.1.2",
         "consola": "2.15.3",
         "danbooru": "3.1.0",
-        "discord.js": "13.12.0",
+        "discord.js": "14.7.1",
         "dotenv": "16.0.3",
         "glob": "8.0.3",
         "holodex.js": "1.1.0",
