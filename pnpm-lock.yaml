@@ -4,7 +4,7 @@ specifiers:
   '@types/node': 18.11.17
   '@typescript-eslint/eslint-plugin': 5.46.1
   '@typescript-eslint/parser': 5.46.1
-  chalk: 4.1.2
+  chalk: 5.2.0
   consola: 2.15.3
   danbooru: 3.1.0
   discord.js: 13.12.0
@@ -26,7 +26,7 @@ specifiers:
 
 dependencies:
   '@types/node': 18.11.17
-  chalk: 4.1.2
+  chalk: 5.2.0
   consola: 2.15.3
   danbooru: 3.1.0
   discord.js: 13.12.0
@@ -1271,6 +1271,11 @@ packages:
     dependencies:
       ansi-styles: 4.3.0
       supports-color: 7.2.0
+
+  /chalk/5.2.0:
+    resolution: {integrity: sha512-ree3Gqw/nazQAPuJJEy+avdl7QfZMcUvmHIKgEZkGL+xOBzRvup5Hxo6LHuMceSxOabuJLJm5Yp/92R9eMmMvA==}
+    engines: {node: ^12.17.0 || ^14.13 || >=16.0.0}
+    dev: false
 
   /chokidar/3.5.3:
     resolution: {integrity: sha512-Dr3sfKRP6oTcjf2JmUmFJfeVMvXBdegxB0iVQ5eb2V10uFJUCAS8OByZdVAyVb8xXNz3GjjTgj9kLWsZTqE6kw==}
